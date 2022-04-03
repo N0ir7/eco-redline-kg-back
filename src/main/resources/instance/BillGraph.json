@@ -1,0 +1,1459 @@
+{
+  "nodes": [
+    {
+      "id": "591ad63655b5427dfa01edd8",
+      "disambiguation": "",
+      "name": "比尔·盖茨",
+      "summary": "内容正在升级中",
+      "locked": true,
+      "width": 60,
+      "catelist": [
+        "EXPERIENCE",
+        "ACHIEVEMENT",
+        "CAREER",
+        "FAMILY",
+        "ATTRIBUTION",
+        "FRIENDSHIP",
+        "INFLUENCE",
+        "TEACH",
+        "LOVE",
+        "OTHER"
+      ],
+      "label": "比尔·盖茨",
+      "position": {
+        "x": -813.2791223599141,
+        "y": 390.53473666606595
+      },
+      "backgroundImage": "//pic.allhistory.com/T1RMKvBKLT1RCvBVdK.JPG?w=120&h=120",
+      "hidden": false,
+      "offsetToCollision": 10
+    },
+    {
+      "id": "5cfd337b3ae20d0001aab139",
+      "disambiguation": "",
+      "name": "剧变",
+      "summary": "<p>这是著名畅销书《枪炮、病菌与钢铁》的作者贾雷德院士最新的一本书。书的主题是探讨了不同社会在经历危机的时候是如何反应和应对的。作者用一系列吸引人的实例，展示了国家怎样处理各自遇到的挑战，比如内战、外敌威胁或经常性的萧条。</p>\n",
+      "width": 60,
+      "offsetToCollision": 10,
+      "position": {
+        "x": 523.4772602353924,
+        "y": 392.0197532150885
+      },
+      "backgroundImage": "//pic.allhistory.com/T1AtbCBbhc1RCvBVdK.jpeg?ch=499&cw=322&cx=0&cy=0&w=120&h=120",
+      "catelist": [
+        "OTHER",
+        "ACHIEVEMENT"
+      ],
+      "hidden": false,
+      "locked": true,
+      "label": "剧变"
+    },
+    {
+      "id": "5cfd36bbefe5550001cdd5e0",
+      "disambiguation": "",
+      "name": "九品脱",
+      "summary": "<div>在作者看来，血液可以拯救生命，也可以传播致命的感染。有时它是一种废物，有时又是一种比石油更贵的商品。罗斯&middot;乔治（Rose George）从古代放血的做法，到液体活检的突破，从世界上第一个大规模献血系统，到人造血液，为你讲述跨越科学和政治的鲜为人知的血液的故事。，</div>\n\n<p>罗斯&middot;乔治（Rose George）是一名记者和作家，曾经为《纽约时报》、《卫报》、《独立报》等媒体撰稿。2018 年，她出版了新书《九品脱：一次穿越神秘而又神奇血液世界的旅程》（Nine Pints: A Journey Through the Mysterious, Miraculous World of Blood）。</p>\n",
+      "width": 60,
+      "offsetToCollision": 10,
+      "position": {
+        "x": 522.9644936145856,
+        "y": 576.1046701961296
+      },
+      "backgroundImage": "//pic.allhistory.com/T19aDCBQ_T1RCvBVdK.jpeg?ch=499&cw=329&cx=0&cy=0&w=120&h=120",
+      "catelist": [
+        "OTHER"
+      ],
+      "hidden": false,
+      "locked": true,
+      "label": "九品脱"
+    },
+    {
+      "id": "5cfd3bbc3ae20d0001aab13f",
+      "disambiguation": "",
+      "name": "莫斯科绅士",
+      "summary": "<p>那是1922年，亚历山大&middot;罗斯托夫伯爵刚刚被判处终身软禁在莫斯科的一家酒店。尽管凡是愿意了解俄罗斯的人肯定都会喜欢《莫斯科绅士》，但比尔&middot;盖茨写道：&ldquo;你不一定非得热爱俄罗斯才会爱读这本书。&rdquo;托尔斯的这本畅销书并不局限于政治。</p>\n\n<p>比尔&middot;盖茨写道：&ldquo;这本书从严格意义上讲是虚构类图书，称它为惊悚小说或爱情故事也不为过。&rdquo;</p>\n",
+      "width": 60,
+      "offsetToCollision": 10,
+      "position": {
+        "x": 523.0199127043245,
+        "y": 708.6152846448838
+      },
+      "backgroundImage": "//pic.allhistory.com/T1pxLyBXx51RCvBVdK.jpeg?ch=905&cw=600&cx=0&cy=0&w=120&h=120",
+      "catelist": [
+        "OTHER"
+      ],
+      "hidden": false,
+      "locked": true,
+      "label": "莫斯科绅士"
+    },
+    {
+      "id": "5cfd3d25efe5550001cdd5e6",
+      "disambiguation": "",
+      "name": "战时总统",
+      "summary": "<p>迈克尔&middot;贝斯克罗斯（Michael Beschloss）的《战时总统》讲述了美国总统的复杂历史以及该国参与的冲突，包括1812年战争和越战。&ldquo;贝斯克罗斯的宽广眼界可以让你从总统领导力中吸取到可以跨领域应用的重要教训，&rdquo;盖茨说道。</p>\n",
+      "width": 60,
+      "offsetToCollision": 10,
+      "position": {
+        "x": 523.413220888309,
+        "y": 857.6780134690881
+      },
+      "backgroundImage": "//pic.allhistory.com/T1mybCBmK71RCvBVdK.jpeg?ch=912&cw=600&cx=0&cy=0&w=120&h=120",
+      "catelist": [
+        "OTHER"
+      ],
+      "hidden": false,
+      "locked": true,
+      "label": "战时总统"
+    },
+    {
+      "id": "5cfd3dc93ae20d0001aab147",
+      "disambiguation": "",
+      "name": "《资本主义的未来》",
+      "summary": "<p>科利尔的新书《资本主义的未来》，对近来人们已经熟知的现象进行了再思考，不过却别有洞见，主要是因为，它不仅相当实用，而且非常直白，最重要的是，它能给人以信心。盖茨先生认为科利尔的最新的著作能以一种发人深省的视角，看待一个如今许多人头脑中第一时间想到的问题。尽管盖茨先生并不赞同他全部的观点，不过他非常欣赏作者分析问题的思路，作为发展经济学家，他的背景给予他一个智慧的洞察力，从而看清资本正在流向何处。本书也曾被2018年的《经济学人》期刊推荐过。</p>\n",
+      "width": 60,
+      "offsetToCollision": 10,
+      "position": {
+        "x": 524.5091995537373,
+        "y": 1002.8966436672353
+      },
+      "backgroundImage": "//pic.allhistory.com/T16tCCB5Dm1RCvBVdK.jpeg?ch=648&cw=429&cx=0&cy=0&w=120&h=120",
+      "catelist": [
+        "OTHER"
+      ],
+      "hidden": false,
+      "locked": true,
+      "label": "《资本主义的未来》"
+    },
+    {
+      "id": "57c3cd040bd1be237da0bda7",
+      "disambiguation": "",
+      "name": "俄罗斯",
+      "summary": "<p><b>俄罗斯联邦</b><sup class=\"sup-reference\" ref-id=\"ref-7\">[7]</sup>（俄语：<span>Российская Федерация</span> ，<a data-id=\"5924201355b54278ac00a690\" data-type=\"entry\" href=\"/detail/5924201355b54278ac00a690\" target=\"_blank\">缩写</a>为<span>РФ</span>），简称<b>俄罗斯</b>、<b>俄联邦</b>、<b>俄国</b>（俄语：<span>Россия</span>），为位于<a data-id=\"5910413d55b542257a00057c\" data-type=\"entry\" href=\"/detail/5910413d55b542257a00057c\" target=\"_blank\">欧亚大陆</a>北部的一个国家，横跨<a data-id=\"57ea3b840bd1be6c4c4dcb3e\" data-type=\"entry\" href=\"/detail/57ea3b840bd1be6c4c4dcb3e\" target=\"_blank\">欧</a><a data-id=\"5910413c55b542257a000577\" data-type=\"entry\" href=\"/detail/5910413c55b542257a000577\" target=\"_blank\">亚</a>两大洲，作为<a data-id=\"5924128055b54278ac00007b\" data-type=\"entry\" href=\"/detail/5924128055b54278ac00007b\" target=\"_blank\">世界上最大的国家</a>，俄罗斯拥有超过1700万平方公里的面积，占地球陆地面积八分之一<sup class=\"sup-reference\" ref-id=\"ref-8\">[8]</sup><sup class=\"sup-reference\" ref-id=\"ref-9\">[9]</sup>；它也是世界上第九大人口国家，拥有1.47亿人口，主要居住于<a data-id=\"592447c155b54278ac025fa5\" data-type=\"entry\" href=\"/detail/592447c155b54278ac025fa5\" target=\"_blank\">其欧洲部分</a>。俄罗斯国土覆盖整个<a data-id=\"5924130255b54278ac00060b\" data-type=\"entry\" href=\"/detail/5924130255b54278ac00060b\" target=\"_blank\">亚洲北部</a>及<a data-id=\"58f8848b55b54258e700183d\" data-type=\"entry\" href=\"/detail/58f8848b55b54258e700183d\" target=\"_blank\">东欧</a>大部，横跨11个<a data-id=\"5924128755b54278ac0000ba\" data-type=\"entry\" href=\"/detail/5924128755b54278ac0000ba\" target=\"_blank\">时区</a>，涵盖广泛的环境和地形。拥有全世界最大的<a data-id=\"589d2ae4bf6928467cace949\" data-type=\"entry\" href=\"/detail/589d2ae4bf6928467cace949\" target=\"_blank\">森林储备</a>和含有约世界四分之一的<a data-id=\"5924151e55b54278ac002244\" data-type=\"entry\" href=\"/detail/5924151e55b54278ac002244\" target=\"_blank\">淡水</a>的湖泊<sup class=\"sup-reference\" ref-id=\"ref-10\">[10]</sup>。俄罗斯有十四个陆上邻国（从西北方向起逆时针序）：<a data-id=\"5910543955b542257a01cbbd\" data-type=\"entry\" href=\"/detail/5910543955b542257a01cbbd\" target=\"_blank\">挪威</a>、<a data-id=\"5910543755b542257a01cba8\" data-type=\"entry\" href=\"/detail/5910543755b542257a01cba8\" target=\"_blank\">芬兰</a>、<a data-id=\"5910544355b542257a01cc5d\" data-type=\"entry\" href=\"/detail/5910544355b542257a01cc5d\" target=\"_blank\">爱沙尼亚</a>、<a data-id=\"5910543a55b542257a01cbbf\" data-type=\"entry\" href=\"/detail/5910543a55b542257a01cbbf\" target=\"_blank\">拉脱维亚</a>、<a data-id=\"5910543955b542257a01cbbe\" data-type=\"entry\" href=\"/detail/5910543955b542257a01cbbe\" target=\"_blank\">立陶宛</a>、<a data-id=\"584a511abf6928bb14311bc7\" data-type=\"entry\" href=\"/detail/584a511abf6928bb14311bc7\" target=\"_blank\">波兰</a>、<a data-id=\"5910543a55b542257a01cbc0\" data-type=\"entry\" href=\"/detail/5910543a55b542257a01cbc0\" target=\"_blank\">白俄罗斯</a>、<a data-id=\"5910543a55b542257a01cbc2\" data-type=\"entry\" href=\"/detail/5910543a55b542257a01cbc2\" target=\"_blank\">乌克兰</a>、<a data-id=\"57c3b1450bd1be0f7da0bda6\" data-type=\"entry\" href=\"/detail/57c3b1450bd1be0f7da0bda6\" target=\"_blank\">格鲁吉亚</a>、<a data-id=\"58f8855c55b54258e7002cc6\" data-type=\"entry\" href=\"/detail/58f8855c55b54258e7002cc6\" target=\"_blank\">阿塞拜疆</a>、<a data-id=\"584e6208bf6928ec7cbf0033\" data-type=\"entry\" href=\"/detail/584e6208bf6928ec7cbf0033\" target=\"_blank\">哈萨克斯坦</a>、<a data-id=\"57eb64f60bd1beac1f8b4567\" data-type=\"entry\" href=\"/detail/57eb64f60bd1beac1f8b4567\" target=\"_blank\">中国</a>、<a data-id=\"5910543955b542257a01cbbc\" data-type=\"entry\" href=\"/detail/5910543955b542257a01cbbc\" target=\"_blank\">蒙古</a>和<a data-id=\"58f8854e55b54258e7002b7d\" data-type=\"entry\" href=\"/detail/58f8854e55b54258e7002b7d\" target=\"_blank\">朝鲜</a>（其中<a data-id=\"5910543955b542257a01cbbe\" data-type=\"entry\" href=\"/detail/5910543955b542257a01cbbe\" target=\"_blank\">立陶宛</a>和<a data-id=\"584a511abf6928bb14311bc7\" data-type=\"entry\" href=\"/detail/584a511abf6928bb14311bc7\" target=\"_blank\">波兰</a>仅与俄罗斯<a data-id=\"592414e555b54278ac001f46\" data-type=\"entry\" href=\"/detail/592414e555b54278ac001f46\" target=\"_blank\">外飞地</a><a data-id=\"591059fc55b542257a0255e0\" data-type=\"entry\" href=\"/detail/591059fc55b542257a0255e0\" target=\"_blank\">加里宁格勒州</a>接壤），另外与<a data-id=\"5910543b55b542257a01cbd2\" data-type=\"entry\" href=\"/detail/5910543b55b542257a01cbd2\" target=\"_blank\">阿布哈兹</a>和<a data-id=\"5910544155b542257a01cc37\" data-type=\"entry\" href=\"/detail/5910544155b542257a01cc37\" target=\"_blank\">南奥塞梯</a>两个只有俄罗斯承认的<a data-id=\"59241b2e55b54278ac006904\" data-type=\"entry\" href=\"/detail/59241b2e55b54278ac006904\" target=\"_blank\">非联合国会员国</a>接壤。同时，俄罗斯还与<a data-id=\"57c3f8010bd1be6b05a0bda3\" data-type=\"entry\" href=\"/detail/57c3f8010bd1be6b05a0bda3\" target=\"_blank\">日本</a>、<a data-id=\"57e1fc970bd1be9240524e5e\" data-type=\"entry\" href=\"/detail/57e1fc970bd1be9240524e5e\" target=\"_blank\">美国</a>、<a data-id=\"582ebd8205c3fbc02d030574\" data-type=\"entry\" href=\"/detail/582ebd8205c3fbc02d030574\" target=\"_blank\">加拿大</a>、<a data-id=\"5910543c55b542257a01cbdf\" data-type=\"entry\" href=\"/detail/5910543c55b542257a01cbdf\" target=\"_blank\">格陵兰</a>（<a data-id=\"57ea0c560bd1bebe394dcb3e\" data-type=\"entry\" href=\"/detail/57ea0c560bd1bebe394dcb3e\" target=\"_blank\">丹麦</a>）、<a data-id=\"58f8855c55b54258e7002ccf\" data-type=\"entry\" href=\"/detail/58f8855c55b54258e7002ccf\" target=\"_blank\">冰岛</a>、<a data-id=\"57ea3d8f0bd1be234d4dcb3f\" data-type=\"entry\" href=\"/detail/57ea3d8f0bd1be234d4dcb3f\" target=\"_blank\">瑞典</a>、<a data-id=\"57ce2fcc0bd1beb7524360b3\" data-type=\"entry\" href=\"/detail/57ce2fcc0bd1beb7524360b3\" target=\"_blank\">土耳其</a>隔海相望。俄罗斯北部和东部分别为<a data-id=\"5924138d55b54278ac000fda\" data-type=\"entry\" href=\"/detail/5924138d55b54278ac000fda\" target=\"_blank\">北冰洋</a>和<a data-id=\"592412af55b54278ac000285\" data-type=\"entry\" href=\"/detail/592412af55b54278ac000285\" target=\"_blank\">太平洋</a>包围，西北和西南则分别可经由<a data-id=\"59104c1255b542257a010c37\" data-type=\"entry\" href=\"/detail/59104c1255b542257a010c37\" target=\"_blank\">波罗的海</a>和<a data-id=\"5910662f55b542257a037bcc\" data-type=\"entry\" href=\"/detail/5910662f55b542257a037bcc\" target=\"_blank\">黑海</a>通往<a data-id=\"5924138d55b54278ac000fdb\" data-type=\"entry\" href=\"/detail/5924138d55b54278ac000fdb\" target=\"_blank\">大西洋</a>。</p>\n\n<p>俄罗斯历史始于欧洲的<a data-id=\"59241efa55b54278ac009a6c\" data-type=\"entry\" href=\"/detail/59241efa55b54278ac009a6c\" target=\"_blank\">东斯拉夫民族</a>，<span>聚集</span>区域自公元3世纪至8世纪逐渐扩大<sup class=\"sup-reference\" ref-id=\"ref-11\">[11]</sup>。在9世纪，<a data-id=\"59244a6b55b54278ac0281f0\" data-type=\"entry\" href=\"/detail/59244a6b55b54278ac0281f0\" target=\"_blank\">瓦良格人</a>武士精英建立了<a data-id=\"57c3de3c0bd1bef87fa0bda5\" data-type=\"entry\" href=\"/detail/57c3de3c0bd1bef87fa0bda5\" target=\"_blank\">基辅罗斯</a>这个<a data-id=\"58f88446977fd57121c3d48e\" data-type=\"entry\" href=\"/detail/58f88446977fd57121c3d48e\" target=\"_blank\">中世纪</a>国家并开始统治。公元988年，国家从<a data-id=\"57bff4370bd1beb6478b456e\" data-type=\"entry\" href=\"/detail/57bff4370bd1beb6478b456e\" target=\"_blank\">拜占庭<span>帝国</span></a>采纳了<a data-id=\"57c4e7aa0bd1be1f0aa0bda5\" data-type=\"entry\" href=\"/detail/57c4e7aa0bd1be1f0aa0bda5\" target=\"_blank\">东正教会</a>，随后由此开始，千年拜占庭与斯拉夫文化的融合成为了今日的<a data-id=\"5924288255b54278ac011483\" data-type=\"entry\" href=\"/detail/5924288255b54278ac011483\" target=\"_blank\">俄罗斯文化</a><sup class=\"sup-reference\" ref-id=\"ref-12\">[12]</sup>。基辅罗斯最终解散分化为众多公国，被<a data-id=\"57c3a0400bd1be1679a0bda3\" data-type=\"entry\" href=\"/detail/57c3a0400bd1be1679a0bda3\" target=\"_blank\">蒙古人逐一击破</a>，并均在13世纪成为了<a data-id=\"57c0099c0bd1beb5478b456b\" data-type=\"entry\" href=\"/detail/57c0099c0bd1beb5478b456b\" target=\"_blank\">金帐汗国</a>的藩属。<a data-id=\"59241ca155b54278ac007abc\" data-type=\"entry\" href=\"/detail/59241ca155b54278ac007abc\" target=\"_blank\">莫斯科大公</a>随后逐渐崛起并统一周边俄罗斯诸侯国，成功从金帐汗国独立且成为了基辅罗斯文化和政治的继承者。在18世纪，<a data-id=\"5910411555b542257a00020c\" data-type=\"entry\" href=\"/detail/5910411555b542257a00020c\" target=\"_blank\">这一国家</a>通过征服，吞并和探索最终成为了<a data-id=\"590ada76977fd57c37202f90\" data-type=\"entry\" href=\"/detail/590ada76977fd57c37202f90\" target=\"_blank\">俄罗斯<span>帝国</span></a>。帝俄是<a data-id=\"5924552b55b54278ac02fd1a\" data-type=\"entry\" href=\"/detail/5924552b55b54278ac02fd1a\" target=\"_blank\">世界历史上的第三大<span>帝国</span></a>，疆域自中欧的<a data-id=\"584a511abf6928bb14311bc7\" data-type=\"entry\" href=\"/detail/584a511abf6928bb14311bc7\" target=\"_blank\">波兰</a>连绵至北美的<a data-id=\"591069a555b542257a03ce8b\" data-type=\"entry\" href=\"/detail/591069a555b542257a03ce8b\" target=\"_blank\">阿拉斯加</a><sup class=\"sup-reference\" ref-id=\"ref-13\">[13]</sup><sup class=\"sup-reference\" ref-id=\"ref-14\">[14]</sup>。</p>\n\n<p>20世纪初<a data-id=\"584a2ac6bf6928de7b311bcf\" data-type=\"entry\" href=\"/detail/584a2ac6bf6928de7b311bcf\" target=\"_blank\">俄国革命</a>后，<a data-id=\"5910411355b542257a0001e1\" data-type=\"entry\" href=\"/detail/5910411355b542257a0001e1\" target=\"_blank\">俄罗斯苏维埃联邦社会主义共和国</a>成为了<a data-id=\"57eb66130bd1beaa1f8b4567\" data-type=\"entry\" href=\"/detail/57eb66130bd1beaa1f8b4567\" target=\"_blank\">苏维埃社会主义共和国联盟</a>的主体和其最大的<a data-id=\"592412cc55b54278ac0003d1\" data-type=\"entry\" href=\"/detail/592412cc55b54278ac0003d1\" target=\"_blank\">加盟共和国</a>。它是世界上第一个宪法意义上的<a data-id=\"5924163755b54278ac002ed2\" data-type=\"entry\" href=\"/detail/5924163755b54278ac002ed2\" target=\"_blank\">社会主义国家</a><sup class=\"sup-reference\" ref-id=\"ref-15\">[15]</sup>。<a data-id=\"57eb63f20bd1bef91d8b4567\" data-type=\"entry\" href=\"/detail/57eb63f20bd1bef91d8b4567\" target=\"_blank\">二战</a>时期，苏联为<a data-id=\"5910411455b542257a0001f6\" data-type=\"entry\" href=\"/detail/5910411455b542257a0001f6\" target=\"_blank\">同盟国</a>的胜利扮演了<a data-id=\"57fef9e50bd1be2078d7c186\" data-type=\"entry\" href=\"/detail/57fef9e50bd1be2078d7c186\" target=\"_blank\">决定性的角色</a>。在战后其崛起成为公认的超级大国，并在<a data-id=\"592412fc55b54278ac0005d7\" data-type=\"entry\" href=\"/detail/592412fc55b54278ac0005d7\" target=\"_blank\">冷战</a>时期与<a data-id=\"57e1fc970bd1be9240524e5e\" data-type=\"entry\" href=\"/detail/57e1fc970bd1be9240524e5e\" target=\"_blank\">美国</a>互相竞争。苏联时期产生了20世纪的许多最重要的科技成就，其中包括<a data-id=\"591055eb55b542257a01f3f1\" data-type=\"entry\" href=\"/detail/591055eb55b542257a01f3f1\" target=\"_blank\">世界第一颗人造地球卫星</a>，以及<a data-id=\"5910570d55b542257a020e81\" data-type=\"entry\" href=\"/detail/5910570d55b542257a020e81\" target=\"_blank\">首次将人类送入太空</a>。在1990年，苏联为世界上第二大经济体<sup class=\"sup-reference\" ref-id=\"ref-16\">[16]</sup>，且拥有世界上最多的常备军人以及最多的<a data-id=\"592413f755b54278ac001463\" data-type=\"entry\" href=\"/detail/592413f755b54278ac001463\" target=\"_blank\">大规模杀伤性武器</a>库存。1991年<a data-id=\"5924131b55b54278ac000732\" data-type=\"entry\" href=\"/detail/5924131b55b54278ac000732\" target=\"_blank\">苏联解体</a>后，包括俄罗斯在内的15个共和国从原苏联独立。<a data-id=\"5910411355b542257a0001e1\" data-type=\"entry\" href=\"/detail/5910411355b542257a0001e1\" target=\"_blank\">俄罗斯苏维埃联邦社会主义共和国</a>作为最大的加盟共和国通过修宪改制为俄罗斯联邦，俄罗斯成为原苏联的唯一<a data-id=\"59246ddb55b54278ac041893\" data-type=\"entry\" href=\"/detail/59246ddb55b54278ac041893\" target=\"_blank\">法理继承国家</a>。国体为<a data-id=\"592415c755b54278ac0029a8\" data-type=\"entry\" href=\"/detail/592415c755b54278ac0029a8\" target=\"_blank\">联邦</a><a data-id=\"5924199d55b54278ac005509\" data-type=\"entry\" href=\"/detail/5924199d55b54278ac005509\" target=\"_blank\">半总统制</a><a data-id=\"59242fc755b54278ac01672e\" data-type=\"entry\" href=\"/detail/59242fc755b54278ac01672e\" target=\"_blank\">多党制</a><a data-id=\"57c7e19c0bd1bedd168b4567\" data-type=\"entry\" href=\"/detail/57c7e19c0bd1bedd168b4567\" target=\"_blank\">共和国</a>。</p>\n\n<p>2015年，根据<a data-id=\"592416fd55b54278ac00374b\" data-type=\"entry\" href=\"/detail/592416fd55b54278ac00374b\" target=\"_blank\">国民生产总值</a><a data-id=\"591945d855b5421554003e8b\" data-type=\"entry\" href=\"/detail/591945d855b5421554003e8b\" target=\"_blank\">俄罗斯经济</a>为<a data-id=\"59241f9655b54278ac00a263\" data-type=\"entry\" href=\"/detail/59241f9655b54278ac00a263\" target=\"_blank\">世界第13大经济体</a>，根据<a data-id=\"5924133f55b54278ac00097e\" data-type=\"entry\" href=\"/detail/5924133f55b54278ac00097e\" target=\"_blank\">购买力平价</a>为<a data-id=\"59241d9855b54278ac008701\" data-type=\"entry\" href=\"/detail/59241d9855b54278ac008701\" target=\"_blank\">世界第六大经济体</a>。俄罗斯拥有世界上最大储量的矿产和能源资源<sup class=\"sup-reference\" ref-id=\"ref-17\">[17]</sup>，是世界上最大的<a data-id=\"592413a955b54278ac001129\" data-type=\"entry\" href=\"/detail/592413a955b54278ac001129\" target=\"_blank\">石油</a>和<a data-id=\"5924130555b54278ac00062d\" data-type=\"entry\" href=\"/detail/5924130555b54278ac00062d\" target=\"_blank\">天然气</a>输出国<sup class=\"sup-reference\" ref-id=\"ref-18\">[18]</sup><sup class=\"sup-reference\" ref-id=\"ref-19\">[19]</sup>。俄罗斯为世界<a data-id=\"592414a855b54278ac001c7e\" data-type=\"entry\" href=\"/detail/592414a855b54278ac001c7e\" target=\"_blank\">大国</a>之一，为<a data-id=\"592412f855b54278ac0005ab\" data-type=\"entry\" href=\"/detail/592412f855b54278ac0005ab\" target=\"_blank\">认定的</a><a data-id=\"592425f155b54278ac00f3a1\" data-type=\"entry\" href=\"/detail/592425f155b54278ac00f3a1\" target=\"_blank\">拥核国家</a>，<a data-id=\"58636cdebf6928c81b4a214f\" data-type=\"entry\" href=\"/detail/58636cdebf6928c81b4a214f\" target=\"_blank\">联合国</a><a data-id=\"5910585155b542257a022d05\" data-type=\"entry\" href=\"/detail/5910585155b542257a022d05\" target=\"_blank\">安理会</a><a data-id=\"5924151155b54278ac0021ac\" data-type=\"entry\" href=\"/detail/5924151155b54278ac0021ac\" target=\"_blank\">常任理事国</a>，<a data-id=\"58f8859655b54258e7003239\" data-type=\"entry\" href=\"/detail/58f8859655b54258e7003239\" target=\"_blank\">G20</a>、<a data-id=\"592426b255b54278ac00fcb1\" data-type=\"entry\" href=\"/detail/592426b255b54278ac00fcb1\" target=\"_blank\">欧洲理事会</a>、<a data-id=\"58f884ff55b54258e70023d7\" data-type=\"entry\" href=\"/detail/58f884ff55b54258e70023d7\" target=\"_blank\">亚太经合组织</a>、<a data-id=\"58f8849955b54258e7001964\" data-type=\"entry\" href=\"/detail/58f8849955b54258e7001964\" target=\"_blank\">上合组织</a>、<a data-id=\"58f884f455b54258e70022d2\" data-type=\"entry\" href=\"/detail/58f884f455b54258e70022d2\" target=\"_blank\">欧安组织</a>、<a data-id=\"58f8859555b54258e700321d\" data-type=\"entry\" href=\"/detail/58f8859555b54258e700321d\" target=\"_blank\">世贸组织</a>和<a data-id=\"58f8842d55b54258e7000ec6\" data-type=\"entry\" href=\"/detail/58f8842d55b54258e7000ec6\" target=\"_blank\">金砖国家</a>成员。它也是<a data-id=\"58f884f355b54258e70022be\" data-type=\"entry\" href=\"/detail/58f884f355b54258e70022be\" target=\"_blank\">独联体</a>、<a data-id=\"58f8849b55b54258e700198e\" data-type=\"entry\" href=\"/detail/58f8849b55b54258e700198e\" target=\"_blank\">集体安全条约组织</a>的领导者和<a data-id=\"58f884ff55b54258e70023e5\" data-type=\"entry\" href=\"/detail/58f884ff55b54258e70023e5\" target=\"_blank\">欧亚经济联盟</a>创始成员。俄罗斯亦是世界<a data-id=\"592417b855b54278ac003f2a\" data-type=\"entry\" href=\"/detail/592417b855b54278ac003f2a\" target=\"_blank\">八大工业国</a>之一，但因<a data-id=\"5924adcc55b54278ac064a10\" data-type=\"entry\" href=\"/detail/5924adcc55b54278ac064a10\" target=\"_blank\">乌克兰危机</a>而被暂停成员身份。</p>\n",
+      "width": 60,
+      "offsetToCollision": 10,
+      "position": {
+        "x": 261.0741588670712,
+        "y": 748.9761683110082
+      },
+      "backgroundImage": "//pic.allhistory.com/T1tWbyByKT1RCvBVdK.jpeg?ch=571&cw=571&cx=96&cy=-5&w=120&h=120",
+      "catelist": [
+        "OTHER",
+        "LOCATION",
+        "ATTRIBUTION",
+        "INFLUENCE"
+      ],
+      "hidden": false,
+      "locked": true,
+      "label": "俄罗斯"
+    },
+    {
+      "id": "5846300cbf6928ed01311bc8",
+      "disambiguation": "",
+      "name": "总统自由勋章",
+      "summary": "内容正在升级中",
+      "width": 60,
+      "offsetToCollision": 10,
+      "position": {
+        "x": -136.34549170525668,
+        "y": 1221.2139171358801
+      },
+      "backgroundImage": "//pic.allhistory.com/T1L7EvBXDT1RCvBVdK.jpg?w=120&h=120",
+      "catelist": [
+        "ACHIEVEMENT"
+      ],
+      "hidden": false,
+      "locked": true,
+      "label": "总统自由勋章"
+    },
+    {
+      "id": "59105c1355b542257a028767",
+      "disambiguation": "",
+      "name": "贾德·戴蒙",
+      "summary": "内容正在升级中",
+      "width": 60,
+      "offsetToCollision": 10,
+      "position": {
+        "x": 264.50868734099214,
+        "y": 468.1599449920348
+      },
+      "backgroundImage": "//pic.allhistory.com/T1rAWvBv_T1RCvBVdK.jpg?w=120&h=120",
+      "catelist": [
+        "ACHIEVEMENT",
+        "OTHER"
+      ],
+      "hidden": false,
+      "locked": true,
+      "label": "贾德·戴蒙"
+    },
+    {
+      "id": "5910652055b542257a03636d",
+      "disambiguation": "1945年至1946年",
+      "name": "越南战争",
+      "summary": "内容正在升级中",
+      "width": 60,
+      "offsetToCollision": 10,
+      "position": {
+        "x": 258.8976325321018,
+        "y": 883.236257441778
+      },
+      "backgroundImage": "//pic.allhistory.com/T1c0ZvBCdT1RCvBVdK.jpg?w=120&h=120",
+      "catelist": [
+        "OTHER",
+        "INFLUENCE"
+      ],
+      "hidden": false,
+      "locked": true,
+      "label": "越南战争"
+    },
+    {
+      "id": "5b370066303a6540ba730443",
+      "disambiguation": "",
+      "name": "泰拉能源",
+      "summary": "内容正在升级中",
+      "width": 60,
+      "offsetToCollision": 10,
+      "position": {
+        "x": -666.0686333624087,
+        "y": 1218.5601378825465
+      },
+      "backgroundImage": "/online/common/img/icons/nine-cates/组织.svg",
+      "catelist": [
+        "ACHIEVEMENT",
+        "INFLUENCE"
+      ],
+      "hidden": false,
+      "locked": true,
+      "label": "泰拉能源"
+    },
+    {
+      "id": "5924175955b54278ac003ada",
+      "disambiguation": "",
+      "name": "血液",
+      "summary": "内容正在升级中",
+      "width": 60,
+      "offsetToCollision": 10,
+      "position": {
+        "x": 258.77030989557215,
+        "y": 622.9960466948833
+      },
+      "backgroundImage": "//pic.allhistory.com/T1N0JvBmET1RCvBVdK.jpg?w=120&h=120",
+      "catelist": [
+        "OTHER"
+      ],
+      "hidden": false,
+      "locked": true,
+      "label": "血液"
+    },
+    {
+      "id": "592412b155b54278ac00029b",
+      "disambiguation": "",
+      "name": "资本主义",
+      "summary": "<p><b>资本主义</b>（<span class=\"LangWithName\">英语：<span>Capitalism</span></span>），亦称<a data-id=\"5924189055b54278ac00487e\" data-type=\"entry\" href=\"/detail/5924189055b54278ac00487e\" target=\"_blank\">自由</a><a data-id=\"5924139055b54278ac001003\" data-type=\"entry\" href=\"/detail/5924139055b54278ac001003\" target=\"_blank\">市场经济</a>或者自由企业经济<sup class=\"sup-reference\" ref-id=\"ref-1\">[1]</sup>，是人类协作的扩展秩序。其特色是私人拥有<a data-id=\"592492c155b54278ac0510e9\" data-type=\"entry\" href=\"/detail/592492c155b54278ac0510e9\" target=\"_blank\">资本财产</a>（<a data-id=\"5924161555b54278ac002d26\" data-type=\"entry\" href=\"/detail/5924161555b54278ac002d26\" target=\"_blank\">生产资料</a>），且投资活动是由个人决策左右，而非由国家所控制，经济行为则以寻求<a data-id=\"592415df55b54278ac002acf\" data-type=\"entry\" href=\"/detail/592415df55b54278ac002acf\" target=\"_blank\">利润</a>为目标<sup class=\"sup-reference\" ref-id=\"ref-2\">[2]</sup><sup class=\"sup-reference\" ref-id=\"ref-3\">[3]</sup><sup class=\"sup-reference\" ref-id=\"ref-4\">[4]</sup> 。借着<a data-id=\"592419c955b54278ac00574c\" data-type=\"entry\" href=\"/detail/592419c955b54278ac00574c\" target=\"_blank\">雇佣</a>或<a data-id=\"5924162f55b54278ac002e5c\" data-type=\"entry\" href=\"/detail/5924162f55b54278ac002e5c\" target=\"_blank\">劳动</a>的手段以生产资料创造<a data-id=\"592415df55b54278ac002acf\" data-type=\"entry\" href=\"/detail/592415df55b54278ac002acf\" target=\"_blank\">利润</a>。<a data-id=\"592413a155b54278ac0010c6\" data-type=\"entry\" href=\"/detail/592413a155b54278ac0010c6\" target=\"_blank\">商品</a>和<a data-id=\"592423c655b54278ac00d79f\" data-type=\"entry\" href=\"/detail/592423c655b54278ac00d79f\" target=\"_blank\">服务</a>借由<a data-id=\"592412ba55b54278ac0002fe\" data-type=\"entry\" href=\"/detail/592412ba55b54278ac0002fe\" target=\"_blank\">货币</a>在<a data-id=\"5924189055b54278ac00487e\" data-type=\"entry\" href=\"/detail/5924189055b54278ac00487e\" target=\"_blank\">自由市场</a>里流通。投资的决定由私人进行，<a data-id=\"592415e355b54278ac002b05\" data-type=\"entry\" href=\"/detail/592415e355b54278ac002b05\" target=\"_blank\">生产</a>和<a data-id=\"592413a755b54278ac00110e\" data-type=\"entry\" href=\"/detail/592413a755b54278ac00110e\" target=\"_blank\">销售</a>主要由<a data-id=\"5924141155b54278ac00159e\" data-type=\"entry\" href=\"/detail/5924141155b54278ac00159e\" target=\"_blank\">公司</a>和<a data-id=\"5924129855b54278ac000175\" data-type=\"entry\" href=\"/detail/5924129855b54278ac000175\" target=\"_blank\">工商业</a>控制并互相竞争。一般普遍认为资本主义在<a data-id=\"5924270155b54278ac0100a6\" data-type=\"entry\" href=\"/detail/5924270155b54278ac0100a6\" target=\"_blank\">西方世界</a>的<a data-id=\"59243bdf55b54278ac01d5ac\" data-type=\"entry\" href=\"/detail/59243bdf55b54278ac01d5ac\" target=\"_blank\">封建制度</a>崩坏之后成为了最主要的经济模式<sup class=\"sup-reference\" ref-id=\"ref-5\">[5]</sup>。</p>\n\n<p>&ldquo;资本主义&rdquo;一词也被许多人用在形容历史上不同的人、时、地、物<sup class=\"sup-reference\" ref-id=\"ref-6\">[6]</sup>，而除了<a data-id=\"5924151855b54278ac0021f5\" data-type=\"entry\" href=\"/detail/5924151855b54278ac0021f5\" target=\"_blank\">自由放任</a>的资本主义以外，也有<a data-id=\"59244a1855b54278ac027d5b\" data-type=\"entry\" href=\"/detail/59244a1855b54278ac027d5b\" target=\"_blank\">福利资本主义</a>、<a data-id=\"59242aab55b54278ac012e8a\" data-type=\"entry\" href=\"/detail/59242aab55b54278ac012e8a\" target=\"_blank\">国家资本主义</a>等打着资本主义称号的经济模式。在对于资本主义的解释上，支持自由放任的经济学家反对政府对于市场的干预并且强调财产权利的重要性<sup class=\"sup-reference\" ref-id=\"ref-7\">[7]</sup><sup class=\"sup-reference\" ref-id=\"ref-8\">[8]</sup>。而有人则主张政府管制的必要性以避免<a data-id=\"5924155655b54278ac0024b1\" data-type=\"entry\" href=\"/detail/5924155655b54278ac0024b1\" target=\"_blank\">垄断</a>和<a data-id=\"5924297555b54278ac0120a3\" data-type=\"entry\" href=\"/detail/5924297555b54278ac0120a3\" target=\"_blank\">景气循环</a>的负面作用<sup class=\"sup-reference\" ref-id=\"ref-9\">[9]</sup>。绝大多数的政治经济学家都将私人产权视为资本主义的最重要特色，而对于资本主义下的雇佣关系、经济权力、阶级、以及历史发展等则有不同看法<sup class=\"sup-reference\" ref-id=\"ref-10\">[10]</sup>。市场的自由程度、以及私人财产的法规，则是政治和政策上争论的主要议题。现在大多数国家都被视为&ldquo;<a data-id=\"592419a555b54278ac005578\" data-type=\"entry\" href=\"/detail/592419a555b54278ac005578\" target=\"_blank\">混合经济</a>&rdquo;<sup class=\"sup-reference\" ref-id=\"ref-11\">[11]</sup>，在这种体制下政府以不同程度的<a data-id=\"592419a555b54278ac005575\" data-type=\"entry\" href=\"/detail/592419a555b54278ac005575\" target=\"_blank\">计划政策</a>干预市场的自由运作<sup class=\"sup-reference\" ref-id=\"ref-10\">[10]</sup>。</p>\n\n<p>&nbsp;</p>\n",
+      "width": 60,
+      "offsetToCollision": 10,
+      "position": {
+        "x": 264.6507700646717,
+        "y": 1025.775523233295
+      },
+      "backgroundImage": "//pic.allhistory.com/T1S5CvByJT1RCvBVdK.jpg?w=120&h=120",
+      "catelist": [
+        "OTHER"
+      ],
+      "hidden": false,
+      "locked": true,
+      "label": "资本主义"
+    },
+    {
+      "id": "59248ad155b54278ac04c497",
+      "disambiguation": "",
+      "name": "未来之路",
+      "summary": "内容正在升级中",
+      "width": 60,
+      "offsetToCollision": 10,
+      "position": {
+        "x": -793.7003400241373,
+        "y": 1214.355075193863
+      },
+      "backgroundImage": "/online/common/img/icons/nine-cates/有问题的.svg",
+      "catelist": [
+        "ACHIEVEMENT"
+      ],
+      "hidden": false,
+      "locked": true,
+      "label": "未来之路"
+    },
+    {
+      "id": "59241c7c55b54278ac00790f",
+      "disambiguation": "",
+      "name": "比尔及梅琳达·盖茨基金会",
+      "summary": "内容正在升级中",
+      "width": 60,
+      "offsetToCollision": 10,
+      "position": {
+        "x": 362.3802419605066,
+        "y": 1221.1411568650626
+      },
+      "backgroundImage": "//pic.allhistory.com/T1Q2xvB7VT1RCvBVdK.JPG?w=120&h=120",
+      "catelist": [
+        "ACHIEVEMENT"
+      ],
+      "hidden": false,
+      "locked": true,
+      "label": "比尔及梅琳达·盖茨基金会"
+    },
+    {
+      "id": "5910631855b542257a033249",
+      "disambiguation": "",
+      "name": "四季酒店",
+      "summary": "内容正在升级中",
+      "width": 60,
+      "offsetToCollision": 10,
+      "position": {
+        "x": -405.2931091692773,
+        "y": 1220.7267220834115
+      },
+      "backgroundImage": "//pic.allhistory.com/T1in_TByZT1RCvBVdK.jpg?w=120&h=120",
+      "catelist": [
+        "ATTRIBUTION"
+      ],
+      "hidden": false,
+      "locked": true,
+      "label": "四季酒店"
+    },
+    {
+      "id": "591ab0a255b5427dfa005d31",
+      "disambiguation": "",
+      "name": "盖茨氏蚜蝇",
+      "summary": "内容正在升级中",
+      "width": 60,
+      "offsetToCollision": 10,
+      "position": {
+        "x": -275.04373905202516,
+        "y": 1219.9033542129355
+      },
+      "backgroundImage": "//pic.allhistory.com/T1I7JvBK_T1RCvBVdK.jpg?w=120&h=120",
+      "catelist": [
+        "ACHIEVEMENT"
+      ],
+      "hidden": false,
+      "locked": true,
+      "label": "盖茨氏蚜蝇"
+    },
+    {
+      "id": "59105b0055b542257a026d64",
+      "disambiguation": "",
+      "name": "Windows Home Server",
+      "summary": "内容正在升级中",
+      "width": 60,
+      "offsetToCollision": 10,
+      "position": {
+        "x": 167.7091877138808,
+        "y": 1220.348056949464
+      },
+      "backgroundImage": "//pic.allhistory.com/T1qqYvBmYv1RCvBVdK.jpeg?ch=140&cw=200&cx=0&cy=0&w=120&h=120",
+      "catelist": [
+        "ACHIEVEMENT"
+      ],
+      "hidden": false,
+      "locked": true,
+      "label": "Windows Home Server"
+    },
+    {
+      "id": "5919425d55b542155400309d",
+      "disambiguation": "",
+      "name": "Altair 8800",
+      "summary": "<p><b>Altair 8800</b>是1974年基于<a data-id=\"59241f2155b54278ac009cb1\" data-type=\"entry\" href=\"/detail/59241f2155b54278ac009cb1\" target=\"_blank\">Intel 8080</a>所设计的一部<a data-id=\"5924194255b54278ac0050b3\" data-type=\"entry\" href=\"/detail/5924194255b54278ac0050b3\" target=\"_blank\">微型电脑</a><img class=\"sup-ref\" data-refid=\"ref-1\" data-type=\"sup-ref\" src />，当时还在哈佛大学读书的<a data-id=\"591ad63655b5427dfa01edd8\" data-type=\"entry\" href=\"/detail/591ad63655b5427dfa01edd8\" target=\"_blank\">比尔·盖茨</a>与伙伴<a data-id=\"591065bf55b542257a0371c3\" data-type=\"entry\" href=\"/detail/591065bf55b542257a0371c3\" target=\"_blank\">保罗·艾伦</a>一起为Altair 8800电脑设计<a data-id=\"5910412955b542257a000401\" data-type=\"entry\" href=\"/detail/5910412955b542257a000401\" target=\"_blank\">Altair BASIC</a>编辑器。Altair是第一台商业上获得成功的个人电脑，而<a data-id=\"591053fa55b542257a01c627\" data-type=\"entry\" href=\"/detail/591053fa55b542257a01c627\" target=\"_blank\">BASIC</a>是一种易用易学的计算机程序设计语言，盖茨与艾伦所开发的BASIC版本就是后来的<a data-id=\"59241cae55b54278ac007b48\" data-type=\"entry\" href=\"/detail/59241cae55b54278ac007b48\" target=\"_blank\">Microsoft BASIC</a>，也是<a data-id=\"591946bf55b542155400425a\" data-type=\"entry\" href=\"/detail/591946bf55b542155400425a\" target=\"_blank\">MS-DOS</a>操作系统的基础，而后者又是<a data-id=\"590071e5977fd57d47a834d8\" data-type=\"entry\" href=\"/detail/590071e5977fd57d47a834d8\" target=\"_blank\">微软</a>早期成功的关键。Microsoft Basic后来成了Microsoft QuickBASIC，并逐渐演变成为今天依然流行的<a data-id=\"591053fa55b542257a01c61c\" data-type=\"entry\" href=\"/detail/591053fa55b542257a01c61c\" target=\"_blank\">Visual Basic</a>。</p>\n",
+      "width": 60,
+      "offsetToCollision": 10,
+      "position": {
+        "x": -532.5777286339361,
+        "y": 1219.8577658532176
+      },
+      "backgroundImage": "//pic.allhistory.com/T112hvBgET1RCvBVdK.jpg?w=120&h=120",
+      "catelist": [
+        "ACHIEVEMENT"
+      ],
+      "hidden": false,
+      "locked": true,
+      "label": "Altair 8800"
+    },
+    {
+      "id": "5924a8e055b54278ac060903",
+      "disambiguation": "",
+      "name": "全球富豪榜",
+      "summary": "内容正在升级中",
+      "width": 60,
+      "offsetToCollision": 10,
+      "position": {
+        "x": 12.270255957549784,
+        "y": 1221.0608974366514
+      },
+      "backgroundImage": "/online/common/img/icons/nine-cates/有问题的.svg",
+      "catelist": [
+        "ACHIEVEMENT"
+      ],
+      "hidden": false,
+      "locked": true,
+      "label": "全球富豪榜"
+    },
+    {
+      "id": "5cd297322ca4cb0001f74e02",
+      "disambiguation": "",
+      "name": "微软",
+      "summary": "<p>微软（英语：Microsoft；NASDAQ：MSFT）是<a data-id=\"57e1fc970bd1be9240524e5e\" href=\"/detail/57e1fc970bd1be9240524e5e\" target=\"_blank\">美国</a>一家跨国<a data-id=\"591946d455b542155400446a\" href=\"/detail/591946d455b542155400446a\" target=\"_blank\">计算机</a>科技公司，以研发、制造、授权和提供广泛的计算机软件服务为主。总部位于美国<a data-id=\"591069a655b542257a03ce92\" href=\"/detail/591069a655b542257a03ce92\" target=\"_blank\">华盛顿州</a>的<a data-id=\"59241daa55b54278ac0087cf\" href=\"/detail/59241daa55b54278ac0087cf\" target=\"_blank\">雷德蒙德</a>，最为著名和畅销的产品为<a data-id=\"5910412655b542257a0003af\" href=\"/detail/5910412655b542257a0003af\" target=\"_blank\">Microsoft Windows</a>操作系统和<a data-id=\"591946bf55b5421554004254\" href=\"/detail/591946bf55b5421554004254\" target=\"_blank\">Microsoft Office</a>办公室软件，以及<a data-id=\"59105abc55b542257a026796\" href=\"/detail/59105abc55b542257a026796\" target=\"_blank\">Xbox</a>的游戏业务。微软是美国《<a data-id=\"5910552e55b542257a01e23c\" href=\"/detail/5910552e55b542257a01e23c\" target=\"_blank\">财富</a>》杂志2015年评选的世界500强企业排行榜中的第95名，2019年微软股价首次突破1兆美金，成为第三家市值突破兆美金的公司。 公司于1975年由<a data-id=\"591ad63655b5427dfa01edd8\" href=\"/detail/591ad63655b5427dfa01edd8\" target=\"_blank\">比尔&middot;盖茨</a>和<a data-id=\"591065bf55b542257a0371c3\" href=\"/detail/591065bf55b542257a0371c3\" target=\"_blank\">保罗&middot;艾伦</a>创立。初期主要为<a data-id=\"5919425d55b542155400309d\" href=\"/detail/5919425d55b542155400309d\" target=\"_blank\">Altair 8800</a>发展和销售<a data-id=\"591053fa55b542257a01c627\" href=\"/detail/591053fa55b542257a01c627\" target=\"_blank\">BASIC</a>解释器，在1980年代中期凭借<a data-id=\"591946bf55b542155400425a\" href=\"/detail/591946bf55b542155400425a\" target=\"_blank\">MS-DOS</a>在家用计算机操作系统市场上获取长足进步，后来出现的<a data-id=\"5924b4f955b54278ac06a59c\" href=\"/detail/5924b4f955b54278ac06a59c\" target=\"_blank\">Windows</a>使得微软逐渐统治了家用桌面计算机操作系统市场。同时微软也开始扩张业务，进军其他行业和市场，创建了<a data-id=\"591063a655b542257a033f91\" href=\"/detail/591063a655b542257a033f91\" target=\"_blank\">MSN</a>网站，在计算机硬件市场上，微软<a data-id=\"5924129355b54278ac000134\" href=\"/detail/5924129355b54278ac000134\" target=\"_blank\">商标</a>及Xbox游戏机、<a data-id=\"5924206955b54278ac00a9b1\" href=\"/detail/5924206955b54278ac00a9b1\" target=\"_blank\">Zune</a>和<a data-id=\"5924496a55b54278ac027452\" href=\"/detail/5924496a55b54278ac027452\" target=\"_blank\">MSN TV</a>家庭娱乐设备也在不同的年份出现在市场上。微软于1986年<a data-id=\"592428c055b54278ac011777\" href=\"/detail/592428c055b54278ac011777\" target=\"_blank\">首次公开募股</a>，此后不断走高的股价为微软缔造了四位亿万富翁和12,000位百万富翁。伴随公司的强大，微软也越来越受到批评和指责，并且数十年来从未间断。拒绝交易和捆绑销售等做法招致<a data-id=\"5924155655b54278ac0024b1\" href=\"/detail/5924155655b54278ac0024b1\" target=\"_blank\">垄断</a>和<a data-id=\"59244a7855b54278ac0282af\" href=\"/detail/59244a7855b54278ac0282af\" target=\"_blank\">不正当竞争</a>的<a data-id=\"5924303155b54278ac016ca7\" href=\"/detail/5924303155b54278ac016ca7\" target=\"_blank\">诉讼</a>。<a data-id=\"5910537a55b542257a01bb02\" href=\"/detail/5910537a55b542257a01bb02\" target=\"_blank\">美国司法部</a>和<a data-id=\"5924281b55b54278ac010ea1\" href=\"/detail/5924281b55b54278ac010ea1\" target=\"_blank\">欧盟委员会</a>根据反托拉斯法均对微软做出过不利裁定。</p>\n",
+      "width": 60,
+      "offsetToCollision": 10,
+      "position": {
+        "x": 524.1118324110034,
+        "y": 1225.7318610551326
+      },
+      "backgroundImage": "//pic.allhistory.com/T18aKCB4ET1RCvBVdK.png?ch=773&cw=773&cx=353&cy=0&w=120&h=120",
+      "catelist": [
+        "ACHIEVEMENT"
+      ],
+      "hidden": false,
+      "locked": true,
+      "label": "微软"
+    }
+  ],
+  "links": [
+    {
+      "id": "5cfd33fdefe5550001cdd5de",
+      "from": "591ad63655b5427dfa01edd8",
+      "to": "5cfd337b3ae20d0001aab139",
+      "label": "推荐",
+      "color": "#F5FBFF",
+      "labelColor": "#000000",
+      "labelBgColor": "#F5FBFF",
+      "labelBorder": {
+        "width": 1,
+        "color": "#FFFFFF"
+      },
+      "lineLength": 150,
+      "editable": true,
+      "direction": "->",
+      "arrowOffsetFromCenter": 14,
+      "arrowWidth": 8,
+      "prop": {
+        "direction": "->",
+        "id": "5cfd33fdefe5550001cdd5de",
+        "relation": "推荐",
+        "relationDesc": "比尔·盖茨的推荐理由：“我是贾雷德所有书的忠实读者，他最新的这一本也不例外。本书探讨了不同社会在经历危机时刻时是如何反应的。他用了一系列吸引人的例子，展示了国家如何处理各自存在的挑战，例如内战、外敌威胁或普遍的萧条。这听上去有一点沮丧，但读罢这本书，我对我们解决问题的能力甚至比开始时感到更加乐观。”",
+        "relationType": "OTHER",
+        "relationTypeGroup": "HUMAN_NONHUMAN",
+        "relationWeight": 44,
+        "relationId": "5cfd33fdefe5550001cdd5de",
+        "time": {
+          "startTime": "0000-00-00 00:00:00",
+          "timeDesc": "",
+          "endTime": "",
+          "startAccuracy": null,
+          "startNote": "",
+          "endAccuracy": null,
+          "endNote": ""
+        },
+        "position": [],
+        "positionDesc": "",
+        "properties": null
+      },
+      "formated": {
+        "fromName": "比尔·盖茨",
+        "toName": "剧变",
+        "from": "591ad63655b5427dfa01edd8",
+        "to": "5cfd337b3ae20d0001aab139",
+        "positionDesc": "",
+        "desc": "比尔·盖茨的推荐理由：“我是贾雷德所有书的忠实读者，他最新的这一本也不例外。本书探讨了不同社会在经历危机时刻时是如何反应的。他用了一系列吸引人的例子，展示了国家如何处理各自存在的挑战，例如内战、外敌威胁或普遍的萧条。这听上去有一点沮丧，但读罢这本书，我对我们解决问题的能力甚至比开始时感到更加乐观。”",
+        "time": ""
+      },
+      "relationArrow": "right",
+      "hidden": false,
+      "forceHidden": false
+    },
+    {
+      "id": "5cfd36c63ae20d0001aab13d",
+      "from": "591ad63655b5427dfa01edd8",
+      "to": "5cfd36bbefe5550001cdd5e0",
+      "label": "推荐",
+      "color": "#F5FBFF",
+      "labelColor": "#000000",
+      "labelBgColor": "#F5FBFF",
+      "labelBorder": {
+        "width": 1,
+        "color": "#FFFFFF"
+      },
+      "lineLength": 150,
+      "editable": true,
+      "direction": "->",
+      "arrowOffsetFromCenter": 14,
+      "arrowWidth": 8,
+      "prop": {
+        "direction": "->",
+        "id": "5cfd36c63ae20d0001aab13d",
+        "relation": "推荐",
+        "relationDesc": "比尔·盖茨的推荐理由：“如果血液会令你感到恶心，这本书恐怕并不适合你。但如果你像我一样觉得血液很奇妙，你就会喜欢上这本书，它的作者是一位英国记者，她个人与血液这个主题有着特殊的联系。我很喜欢深入挖掘某一个话题的书，因此《九品脱》（书名指的是平均每个成年人体内的血液量）正合我的胃口。书中充满了非常有趣的事实，将给你留下一个对血液的全新认识。”",
+        "relationType": "OTHER",
+        "relationTypeGroup": "HUMAN_NONHUMAN",
+        "relationWeight": 1,
+        "relationId": "5cfd36c63ae20d0001aab13d",
+        "time": {
+          "startTime": "0000-00-00 00:00:00",
+          "timeDesc": "",
+          "endTime": "",
+          "startAccuracy": null,
+          "startNote": "",
+          "endAccuracy": null,
+          "endNote": ""
+        },
+        "position": [],
+        "positionDesc": "",
+        "properties": null
+      },
+      "formated": {
+        "fromName": "比尔·盖茨",
+        "toName": "九品脱",
+        "from": "591ad63655b5427dfa01edd8",
+        "to": "5cfd36bbefe5550001cdd5e0",
+        "positionDesc": "",
+        "desc": "比尔·盖茨的推荐理由：“如果血液会令你感到恶心，这本书恐怕并不适合你。但如果你像我一样觉得血液很奇妙，你就会喜欢上这本书，它的作者是一位英国记者，她个人与血液这个主题有着特殊的联系。我很喜欢深入挖掘某一个话题的书，因此《九品脱》（书名指的是平均每个成年人体内的血液量）正合我的胃口。书中充满了非常有趣的事实，将给你留下一个对血液的全新认识。”",
+        "time": ""
+      },
+      "relationArrow": "right",
+      "hidden": false,
+      "forceHidden": false
+    },
+    {
+      "id": "5cfd338defe5550001cdd5dc",
+      "from": "5cfd337b3ae20d0001aab139",
+      "to": "59105c1355b542257a028767",
+      "label": "作者",
+      "color": "#F5FBFF",
+      "labelColor": "#000000",
+      "labelBgColor": "#F5FBFF",
+      "labelBorder": {
+        "width": 1,
+        "color": "#FFFFFF"
+      },
+      "lineLength": 150,
+      "editable": true,
+      "direction": "->",
+      "arrowOffsetFromCenter": 14,
+      "arrowWidth": 8,
+      "prop": {
+        "direction": "<-",
+        "id": "5cfd338defe5550001cdd5dc",
+        "relation": "作者",
+        "relationDesc": "这是著名畅销书《枪炮、病菌与钢铁》的作者贾雷德院士最新的一本书。书的主题是探讨了不同社会在经历危机的时候是如何反应和应对的。作者用一系列吸引人的实例，展示了国家怎样处理各自遇到的挑战，比如内战、外敌威胁或经常性的萧条。",
+        "relationType": "ACHIEVEMENT",
+        "relationTypeGroup": "HUMAN_NONHUMAN",
+        "relationWeight": 3,
+        "relationId": "5cfd338defe5550001cdd5dc",
+        "time": {
+          "startTime": "0000-00-00 00:00:00",
+          "timeDesc": "",
+          "endTime": "",
+          "startAccuracy": null,
+          "startNote": "",
+          "endAccuracy": null,
+          "endNote": ""
+        },
+        "position": [],
+        "positionDesc": "",
+        "properties": null
+      },
+      "formated": {
+        "fromName": "贾德·戴蒙",
+        "toName": "剧变",
+        "from": "59105c1355b542257a028767",
+        "to": "5cfd337b3ae20d0001aab139",
+        "positionDesc": "",
+        "desc": "这是著名畅销书《枪炮、病菌与钢铁》的作者贾雷德院士最新的一本书。书的主题是探讨了不同社会在经历危机的时候是如何反应和应对的。作者用一系列吸引人的实例，展示了国家怎样处理各自遇到的挑战，比如内战、外敌威胁或经常性的萧条。",
+        "time": ""
+      },
+      "relationArrow": "left",
+      "hidden": false,
+      "forceHidden": false
+    },
+    {
+      "id": "5cfd3736efe5550001cdd5e4",
+      "from": "5cfd36bbefe5550001cdd5e0",
+      "to": "5924175955b54278ac003ada",
+      "label": "关于",
+      "color": "#F5FBFF",
+      "labelColor": "#000000",
+      "labelBgColor": "#F5FBFF",
+      "labelBorder": {
+        "width": 1,
+        "color": "#FFFFFF"
+      },
+      "lineLength": 150,
+      "editable": true,
+      "direction": "->",
+      "arrowOffsetFromCenter": 14,
+      "arrowWidth": 8,
+      "prop": {
+        "direction": "<-",
+        "id": "5cfd3736efe5550001cdd5e4",
+        "relation": "关于",
+        "relationDesc": "在作者看来，血液可以拯救生命，也可以传播致命的感染。有时它是一种废物，有时又是一种比石油更贵的商品。罗斯·乔治（Rose George）从古代放血的做法，到液体活检的突破，从世界上第一个大规模献血系统，到人造血液，为你讲述跨越科学和政治的鲜为人知的血液的故事。，罗斯·乔治（Rose George）是一名记者和作家，曾经为《纽约时报》、《卫报》、《独立报》等媒体撰稿。2018 年，她出版了新书《九品脱：一次穿越神秘而又神奇血液世界的旅程》（Nine Pints: A Journey Through the Mysterious, Miraculous World of Blood）。",
+        "relationType": "OTHER",
+        "relationTypeGroup": "NONHUMAN_NONHUMAN",
+        "relationWeight": 92,
+        "relationId": "5cfd3736efe5550001cdd5e4",
+        "time": {
+          "startTime": "0000-00-00 00:00:00",
+          "timeDesc": "",
+          "endTime": "",
+          "startAccuracy": null,
+          "startNote": "",
+          "endAccuracy": null,
+          "endNote": ""
+        },
+        "position": [],
+        "positionDesc": "",
+        "properties": null
+      },
+      "formated": {
+        "fromName": "血液",
+        "toName": "九品脱",
+        "from": "5924175955b54278ac003ada",
+        "to": "5cfd36bbefe5550001cdd5e0",
+        "positionDesc": "",
+        "desc": "在作者看来，血液可以拯救生命，也可以传播致命的感染。有时它是一种废物，有时又是一种比石油更贵的商品。罗斯·乔治（Rose George）从古代放血的做法，到液体活检的突破，从世界上第一个大规模献血系统，到人造血液，为你讲述跨越科学和政治的鲜为人知的血液的故事。，罗斯·乔治（Rose George）是一名记者和作家，曾经为《纽约时报》、《卫报》、《独立报》等媒体撰稿。2018 年，她出版了新书《九品脱：一次穿越神秘而又神奇血液世界的旅程》（Nine Pints: A Journey Through the Mysterious, Miraculous World of Blood）。",
+        "time": ""
+      },
+      "relationArrow": "left",
+      "hidden": false
+    },
+    {
+      "id": "5cfd3bfe3ae20d0001aab143",
+      "from": "591ad63655b5427dfa01edd8",
+      "to": "5cfd3bbc3ae20d0001aab13f",
+      "label": "推荐",
+      "color": "#F5FBFF",
+      "labelColor": "#000000",
+      "labelBgColor": "#F5FBFF",
+      "labelBorder": {
+        "width": 1,
+        "color": "#FFFFFF"
+      },
+      "lineLength": 150,
+      "editable": true,
+      "direction": "->",
+      "arrowOffsetFromCenter": 14,
+      "arrowWidth": 8,
+      "prop": {
+        "direction": "->",
+        "id": "5cfd3bfe3ae20d0001aab143",
+        "relation": "推荐",
+        "relationDesc": "比尔·盖茨的推荐理由：“好像所有我认识的人都已经读过这本书了。在我姐夫送给我一本之后，我终于加入且很庆幸地加入了这个俱乐部。托尔斯的小说描写了一位被判终身监禁的伯爵，他在莫斯科的一家酒店里服刑，为人有趣、聪明且令人惊叹的乐观。即便你不像我这般喜爱俄国的文学作品也没问题（我读过陀思妥耶夫斯基的所有著作），《莫斯科绅士》会是一个让任何人都能爱上的精彩故事。”",
+        "relationType": "OTHER",
+        "relationTypeGroup": "HUMAN_NONHUMAN",
+        "relationWeight": 42,
+        "relationId": "5cfd3bfe3ae20d0001aab143",
+        "time": {
+          "startTime": "0000-00-00 00:00:00",
+          "timeDesc": "",
+          "endTime": "",
+          "startAccuracy": null,
+          "startNote": "",
+          "endAccuracy": null,
+          "endNote": ""
+        },
+        "position": [],
+        "positionDesc": "",
+        "properties": null
+      },
+      "formated": {
+        "fromName": "比尔·盖茨",
+        "toName": "莫斯科绅士",
+        "from": "591ad63655b5427dfa01edd8",
+        "to": "5cfd3bbc3ae20d0001aab13f",
+        "positionDesc": "",
+        "desc": "比尔·盖茨的推荐理由：“好像所有我认识的人都已经读过这本书了。在我姐夫送给我一本之后，我终于加入且很庆幸地加入了这个俱乐部。托尔斯的小说描写了一位被判终身监禁的伯爵，他在莫斯科的一家酒店里服刑，为人有趣、聪明且令人惊叹的乐观。即便你不像我这般喜爱俄国的文学作品也没问题（我读过陀思妥耶夫斯基的所有著作），《莫斯科绅士》会是一个让任何人都能爱上的精彩故事。”",
+        "time": ""
+      },
+      "relationArrow": "right",
+      "hidden": false,
+      "forceHidden": false
+    },
+    {
+      "id": "5cfd3c1b3ae20d0001aab145",
+      "from": "5cfd3bbc3ae20d0001aab13f",
+      "to": "57c3cd040bd1be237da0bda7",
+      "label": "关于",
+      "color": "#F5FBFF",
+      "labelColor": "#000000",
+      "labelBgColor": "#F5FBFF",
+      "labelBorder": {
+        "width": 1,
+        "color": "#FFFFFF"
+      },
+      "lineLength": 150,
+      "editable": true,
+      "direction": "->",
+      "arrowOffsetFromCenter": 14,
+      "arrowWidth": 8,
+      "prop": {
+        "direction": "<-",
+        "id": "5cfd3c1b3ae20d0001aab145",
+        "relation": "关于",
+        "relationDesc": "那是1922年，亚历山大·罗斯托夫伯爵刚刚被判处终身软禁在莫斯科的一家酒店。尽管凡是愿意了解俄罗斯的人肯定都会喜欢《莫斯科绅士》，但比尔·盖茨写道：“你不一定非得热爱俄罗斯才会爱读这本书。”托尔斯的这本畅销书并不局限于政治。比尔·盖茨写道：“这本书从严格意义上讲是虚构类图书，称它为惊悚小说或爱情故事也不为过。”",
+        "relationType": "OTHER",
+        "relationTypeGroup": "NONHUMAN_NONHUMAN",
+        "relationWeight": 74,
+        "relationId": "5cfd3c1b3ae20d0001aab145",
+        "time": {
+          "startTime": "0000-00-00 00:00:00",
+          "timeDesc": "",
+          "endTime": "",
+          "startAccuracy": null,
+          "startNote": "",
+          "endAccuracy": null,
+          "endNote": ""
+        },
+        "position": [],
+        "positionDesc": "",
+        "properties": null
+      },
+      "formated": {
+        "fromName": "俄罗斯",
+        "toName": "莫斯科绅士",
+        "from": "57c3cd040bd1be237da0bda7",
+        "to": "5cfd3bbc3ae20d0001aab13f",
+        "positionDesc": "",
+        "desc": "那是1922年，亚历山大·罗斯托夫伯爵刚刚被判处终身软禁在莫斯科的一家酒店。尽管凡是愿意了解俄罗斯的人肯定都会喜欢《莫斯科绅士》，但比尔·盖茨写道：“你不一定非得热爱俄罗斯才会爱读这本书。”托尔斯的这本畅销书并不局限于政治。比尔·盖茨写道：“这本书从严格意义上讲是虚构类图书，称它为惊悚小说或爱情故事也不为过。”",
+        "time": ""
+      },
+      "relationArrow": "left",
+      "hidden": false,
+      "forceHidden": false
+    },
+    {
+      "id": "5cfd3d39efe5550001cdd5ea",
+      "from": "591ad63655b5427dfa01edd8",
+      "to": "5cfd3d25efe5550001cdd5e6",
+      "label": "推荐",
+      "color": "#F5FBFF",
+      "labelColor": "#000000",
+      "labelBgColor": "#F5FBFF",
+      "labelBorder": {
+        "width": 1,
+        "color": "#FFFFFF"
+      },
+      "lineLength": 150,
+      "editable": true,
+      "direction": "->",
+      "arrowOffsetFromCenter": 14,
+      "arrowWidth": 8,
+      "prop": {
+        "direction": "->",
+        "id": "5cfd3d39efe5550001cdd5ea",
+        "relation": "推荐",
+        "relationDesc": "比尔·盖茨的推荐理由：“对越战各方面的浓厚兴趣促使我拿起了这本书。在我读完的时候，我不仅学到更多关于越战的内容，而且对美国在20世纪初到70年代之间参与过的其它八个主要冲突增加了许多了解。贝斯克罗斯宽广的眼界，使你从总统领导力中吸取到可以跨领域应用的重要教训。”",
+        "relationType": "OTHER",
+        "relationTypeGroup": "HUMAN_NONHUMAN",
+        "relationWeight": 44,
+        "relationId": "5cfd3d39efe5550001cdd5ea",
+        "time": {
+          "startTime": "0000-00-00 00:00:00",
+          "timeDesc": "",
+          "endTime": "",
+          "startAccuracy": null,
+          "startNote": "",
+          "endAccuracy": null,
+          "endNote": ""
+        },
+        "position": [],
+        "positionDesc": "",
+        "properties": null
+      },
+      "formated": {
+        "fromName": "比尔·盖茨",
+        "toName": "战时总统",
+        "from": "591ad63655b5427dfa01edd8",
+        "to": "5cfd3d25efe5550001cdd5e6",
+        "positionDesc": "",
+        "desc": "比尔·盖茨的推荐理由：“对越战各方面的浓厚兴趣促使我拿起了这本书。在我读完的时候，我不仅学到更多关于越战的内容，而且对美国在20世纪初到70年代之间参与过的其它八个主要冲突增加了许多了解。贝斯克罗斯宽广的眼界，使你从总统领导力中吸取到可以跨领域应用的重要教训。”",
+        "time": ""
+      },
+      "relationArrow": "right",
+      "hidden": false,
+      "forceHidden": false
+    },
+    {
+      "id": "5cfd3d7eefe5550001cdd5ec",
+      "from": "5cfd3d25efe5550001cdd5e6",
+      "to": "5910652055b542257a03636d",
+      "label": "关于",
+      "color": "#F5FBFF",
+      "labelColor": "#000000",
+      "labelBgColor": "#F5FBFF",
+      "labelBorder": {
+        "width": 1,
+        "color": "#FFFFFF"
+      },
+      "lineLength": 150,
+      "editable": true,
+      "direction": "->",
+      "arrowOffsetFromCenter": 14,
+      "arrowWidth": 8,
+      "prop": {
+        "direction": "<-",
+        "id": "5cfd3d7eefe5550001cdd5ec",
+        "relation": "关于",
+        "relationDesc": "迈克尔·贝斯克罗斯（Michael Beschloss）的《战时总统》讲述了美国总统的复杂历史以及该国参与的冲突，包括1812年战争和越战。“贝斯克罗斯的宽广眼界可以让你从总统领导力中吸取到可以跨领域应用的重要教训，”盖茨说道。",
+        "relationType": "OTHER",
+        "relationTypeGroup": "NONHUMAN_NONHUMAN",
+        "relationWeight": 51,
+        "relationId": "5cfd3d7eefe5550001cdd5ec",
+        "time": {
+          "startTime": "0000-00-00 00:00:00",
+          "timeDesc": "",
+          "endTime": "",
+          "startAccuracy": null,
+          "startNote": "",
+          "endAccuracy": null,
+          "endNote": ""
+        },
+        "position": [],
+        "positionDesc": "",
+        "properties": null
+      },
+      "formated": {
+        "fromName": "越南战争",
+        "toName": "战时总统",
+        "from": "5910652055b542257a03636d",
+        "to": "5cfd3d25efe5550001cdd5e6",
+        "positionDesc": "",
+        "desc": "迈克尔·贝斯克罗斯（Michael Beschloss）的《战时总统》讲述了美国总统的复杂历史以及该国参与的冲突，包括1812年战争和越战。“贝斯克罗斯的宽广眼界可以让你从总统领导力中吸取到可以跨领域应用的重要教训，”盖茨说道。",
+        "time": ""
+      },
+      "relationArrow": "left",
+      "hidden": false,
+      "forceHidden": false
+    },
+    {
+      "id": "5cfd3e16efe5550001cdd5ee",
+      "from": "591ad63655b5427dfa01edd8",
+      "to": "5cfd3dc93ae20d0001aab147",
+      "label": "推荐",
+      "color": "#F5FBFF",
+      "labelColor": "#000000",
+      "labelBgColor": "#F5FBFF",
+      "labelBorder": {
+        "width": 1,
+        "color": "#FFFFFF"
+      },
+      "lineLength": 150,
+      "editable": true,
+      "direction": "->",
+      "arrowOffsetFromCenter": 14,
+      "arrowWidth": 8,
+      "prop": {
+        "direction": "->",
+        "id": "5cfd3e16efe5550001cdd5ee",
+        "relation": "推荐",
+        "relationDesc": "比尔·盖茨的推荐理由：“科利尔的最新著作以一种发人深省的视角，看待一个如今许多人头脑中第一时间想到的问题。虽然我并非同意他的所有观点——我认为他对问题的分析好过他提出的解决方案——但作为一名发展经济学家，他的背景给予他一个智慧的洞察力，从而看清资本正在流向何处。”",
+        "relationType": "OTHER",
+        "relationTypeGroup": "HUMAN_NONHUMAN",
+        "relationWeight": 97,
+        "relationId": "5cfd3e16efe5550001cdd5ee",
+        "time": {
+          "startTime": "0000-00-00 00:00:00",
+          "timeDesc": "",
+          "endTime": "",
+          "startAccuracy": null,
+          "startNote": "",
+          "endAccuracy": null,
+          "endNote": ""
+        },
+        "position": [],
+        "positionDesc": "",
+        "properties": null
+      },
+      "formated": {
+        "fromName": "比尔·盖茨",
+        "toName": "《资本主义的未来》",
+        "from": "591ad63655b5427dfa01edd8",
+        "to": "5cfd3dc93ae20d0001aab147",
+        "positionDesc": "",
+        "desc": "比尔·盖茨的推荐理由：“科利尔的最新著作以一种发人深省的视角，看待一个如今许多人头脑中第一时间想到的问题。虽然我并非同意他的所有观点——我认为他对问题的分析好过他提出的解决方案——但作为一名发展经济学家，他的背景给予他一个智慧的洞察力，从而看清资本正在流向何处。”",
+        "time": ""
+      },
+      "relationArrow": "right",
+      "hidden": false,
+      "forceHidden": false
+    },
+    {
+      "id": "5cfd3e51efe5550001cdd5f0",
+      "from": "5cfd3dc93ae20d0001aab147",
+      "to": "592412b155b54278ac00029b",
+      "label": "关于",
+      "color": "#F5FBFF",
+      "labelColor": "#000000",
+      "labelBgColor": "#F5FBFF",
+      "labelBorder": {
+        "width": 1,
+        "color": "#FFFFFF"
+      },
+      "lineLength": 150,
+      "editable": true,
+      "direction": "->",
+      "arrowOffsetFromCenter": 14,
+      "arrowWidth": 8,
+      "prop": {
+        "direction": "<-",
+        "id": "5cfd3e51efe5550001cdd5f0",
+        "relation": "关于",
+        "relationDesc": "科利尔的新书《资本主义的未来》，对近来人们已经熟知的现象进行了再思考，不过却别有洞见，主要是因为，它不仅相当实用，而且非常直白，最重要的是，它能给人以信心。盖茨先生认为科利尔的最新的著作能以一种发人深省的视角，看待一个如今许多人头脑中第一时间想到的问题。尽管盖茨先生并不赞同他全部的观点，不过他非常欣赏作者分析问题的思路，作为发展经济学家，他的背景给予他一个智慧的洞察力，从而看清资本正在流向何处。本书也曾被2018年的《经济学人》期刊推荐过。",
+        "relationType": "OTHER",
+        "relationTypeGroup": "NONHUMAN_NONHUMAN",
+        "relationWeight": 34,
+        "relationId": "5cfd3e51efe5550001cdd5f0",
+        "time": {
+          "startTime": "0000-00-00 00:00:00",
+          "timeDesc": "",
+          "endTime": "",
+          "startAccuracy": null,
+          "startNote": "",
+          "endAccuracy": null,
+          "endNote": ""
+        },
+        "position": [],
+        "positionDesc": "",
+        "properties": null
+      },
+      "formated": {
+        "fromName": "资本主义",
+        "toName": "《资本主义的未来》",
+        "from": "592412b155b54278ac00029b",
+        "to": "5cfd3dc93ae20d0001aab147",
+        "positionDesc": "",
+        "desc": "科利尔的新书《资本主义的未来》，对近来人们已经熟知的现象进行了再思考，不过却别有洞见，主要是因为，它不仅相当实用，而且非常直白，最重要的是，它能给人以信心。盖茨先生认为科利尔的最新的著作能以一种发人深省的视角，看待一个如今许多人头脑中第一时间想到的问题。尽管盖茨先生并不赞同他全部的观点，不过他非常欣赏作者分析问题的思路，作为发展经济学家，他的背景给予他一个智慧的洞察力，从而看清资本正在流向何处。本书也曾被2018年的《经济学人》期刊推荐过。",
+        "time": ""
+      },
+      "relationArrow": "left",
+      "hidden": false
+    },
+    {
+      "id": "5b9b553d2a99a60001bed556",
+      "from": "591ad63655b5427dfa01edd8",
+      "to": "5b370066303a6540ba730443",
+      "label": "董事长",
+      "color": "#F5FBFF",
+      "labelColor": "#000000",
+      "labelBgColor": "#F5FBFF",
+      "labelBorder": {
+        "width": 1,
+        "color": "#FFFFFF"
+      },
+      "lineLength": 150,
+      "editable": true,
+      "direction": "<-",
+      "arrowOffsetFromCenter": 14,
+      "arrowWidth": 8,
+      "prop": {
+        "direction": "<-",
+        "id": "5b9b553d2a99a60001bed556",
+        "relation": "董事长",
+        "relationDesc": "<div><a href=\"/detail/5b370066303a6540ba730443\" data-id=\"5b370066303a6540ba730443\" target=\"_blank\">泰拉能源</a>（英语：TerraPower）是一家<a href=\"/detail/5924308855b54278ac017148\" data-id=\"5924308855b54278ac017148\" target=\"_blank\">总部</a>设在<a href=\"/detail/57e1fc970bd1be9240524e5e\" data-id=\"57e1fc970bd1be9240524e5e\" target=\"_blank\">美国</a><a href=\"/detail/591069a655b542257a03ce92\" data-id=\"591069a655b542257a03ce92\" target=\"_blank\">华盛顿州</a><a href=\"/detail/5910436955b542257a00365c\" data-id=\"5910436955b542257a00365c\" target=\"_blank\">贝尔维尤</a>的<a href=\"/detail/592417d155b54278ac004044\" data-id=\"592417d155b54278ac004044\" target=\"_blank\">核反应堆</a>设计公司。泰拉能源是一种称为行波反应堆（TWR）的快堆核反应堆。不像标准的<a href=\"/detail/59243bd855b54278ac01d54f\" data-id=\"59243bd855b54278ac01d54f\" target=\"_blank\">轻水反应堆</a>，例如以<a href=\"/detail/5924216d55b54278ac00b7bd\" data-id=\"5924216d55b54278ac00b7bd\" target=\"_blank\">浓缩铀</a>为燃料的<a href=\"/detail/5924294455b54278ac011e3e\" data-id=\"5924294455b54278ac011e3e\" target=\"_blank\">压水反应堆</a>或<a href=\"/detail/5924294355b54278ac011e28\" data-id=\"5924294355b54278ac011e28\" target=\"_blank\">沸水反应堆</a>，行波反应堆使用<a href=\"/detail/5924372455b54278ac01c3cc\" data-id=\"5924372455b54278ac01c3cc\" target=\"_blank\">贫铀</a>替代<a href=\"/detail/59241bef55b54278ac007222\" data-id=\"59241bef55b54278ac007222\" target=\"_blank\">燃料</a>，在无需更换燃料的条件下预计运行时间40到60年。<a href=\"/detail/5910558155b542257a01e9e1\" data-id=\"5910558155b542257a01e9e1\" target=\"_blank\">铀-235</a>裂变的<a href=\"/detail/5b36fd02303a6540ba70f439\" data-id=\"5b36fd02303a6540ba70f439\" target=\"_blank\">副产品</a>可以重新用于其他行波反应堆。该公司董事长为比尔·盖茨，前微软创始人、前任<a href=\"/detail/59242fd455b54278ac0167e1\" data-id=\"59242fd455b54278ac0167e1\" target=\"_blank\">董事长</a>。</div>",
+        "relationType": "ACHIEVEMENT",
+        "relationTypeGroup": "HUMAN_NONHUMAN",
+        "relationWeight": 8,
+        "relationId": "5b9b553d2a99a60001bed556",
+        "time": {
+          "startTime": "0000-00-00 00:00:00",
+          "timeDesc": "",
+          "endTime": "",
+          "startAccuracy": null,
+          "startNote": "",
+          "endAccuracy": null,
+          "endNote": ""
+        },
+        "position": [],
+        "positionDesc": "",
+        "properties": null
+      },
+      "formated": {
+        "fromName": "比尔·盖茨",
+        "toName": "泰拉能源",
+        "from": "591ad63655b5427dfa01edd8",
+        "to": "5b370066303a6540ba730443",
+        "positionDesc": "",
+        "desc": "<div><a href=\"/detail/5b370066303a6540ba730443\" data-id=\"5b370066303a6540ba730443\" target=\"_blank\">泰拉能源</a>（英语：TerraPower）是一家<a href=\"/detail/5924308855b54278ac017148\" data-id=\"5924308855b54278ac017148\" target=\"_blank\">总部</a>设在<a href=\"/detail/57e1fc970bd1be9240524e5e\" data-id=\"57e1fc970bd1be9240524e5e\" target=\"_blank\">美国</a><a href=\"/detail/591069a655b542257a03ce92\" data-id=\"591069a655b542257a03ce92\" target=\"_blank\">华盛顿州</a><a href=\"/detail/5910436955b542257a00365c\" data-id=\"5910436955b542257a00365c\" target=\"_blank\">贝尔维尤</a>的<a href=\"/detail/592417d155b54278ac004044\" data-id=\"592417d155b54278ac004044\" target=\"_blank\">核反应堆</a>设计公司。泰拉能源是一种称为行波反应堆（TWR）的快堆核反应堆。不像标准的<a href=\"/detail/59243bd855b54278ac01d54f\" data-id=\"59243bd855b54278ac01d54f\" target=\"_blank\">轻水反应堆</a>，例如以<a href=\"/detail/5924216d55b54278ac00b7bd\" data-id=\"5924216d55b54278ac00b7bd\" target=\"_blank\">浓缩铀</a>为燃料的<a href=\"/detail/5924294455b54278ac011e3e\" data-id=\"5924294455b54278ac011e3e\" target=\"_blank\">压水反应堆</a>或<a href=\"/detail/5924294355b54278ac011e28\" data-id=\"5924294355b54278ac011e28\" target=\"_blank\">沸水反应堆</a>，行波反应堆使用<a href=\"/detail/5924372455b54278ac01c3cc\" data-id=\"5924372455b54278ac01c3cc\" target=\"_blank\">贫铀</a>替代<a href=\"/detail/59241bef55b54278ac007222\" data-id=\"59241bef55b54278ac007222\" target=\"_blank\">燃料</a>，在无需更换燃料的条件下预计运行时间40到60年。<a href=\"/detail/5910558155b542257a01e9e1\" data-id=\"5910558155b542257a01e9e1\" target=\"_blank\">铀-235</a>裂变的<a href=\"/detail/5b36fd02303a6540ba70f439\" data-id=\"5b36fd02303a6540ba70f439\" target=\"_blank\">副产品</a>可以重新用于其他行波反应堆。该公司董事长为比尔·盖茨，前微软创始人、前任<a href=\"/detail/59242fd455b54278ac0167e1\" data-id=\"59242fd455b54278ac0167e1\" target=\"_blank\">董事长</a>。</div>",
+        "time": ""
+      },
+      "relationArrow": "left",
+      "hidden": false,
+      "forceHidden": false
+    },
+    {
+      "id": "5cd119a92a99a600012f30af",
+      "from": "591ad63655b5427dfa01edd8",
+      "to": "59248ad155b54278ac04c497",
+      "label": "创作",
+      "color": "#F5FBFF",
+      "labelColor": "#000000",
+      "labelBgColor": "#F5FBFF",
+      "labelBorder": {
+        "width": 1,
+        "color": "#FFFFFF"
+      },
+      "lineLength": 150,
+      "editable": true,
+      "direction": "->",
+      "arrowOffsetFromCenter": 14,
+      "arrowWidth": 8,
+      "prop": {
+        "direction": "->",
+        "id": "5cd119a92a99a600012f30af",
+        "relation": "创作",
+        "relationDesc": "《<a href=\"/detail/59248ad155b54278ac04c497\" data-id=\"59248ad155b54278ac04c497\" target=\"_blank\">未来之路</a>》是<a href=\"/detail/5cd297322ca4cb0001f74e02\" data-id=\"5cd297322ca4cb0001f74e02\" target=\"_blank\">微软</a>的联合创始人&amp;CEO<a href=\"/detail/591ad63655b5427dfa01edd8\" data-id=\"591ad63655b5427dfa01edd8\" target=\"_blank\">比尔·盖茨</a>、微软执行总监以及<a href=\"/detail/5924147555b54278ac001a6c\" data-id=\"5924147555b54278ac001a6c\" target=\"_blank\">记者</a>于1995年共同完成的。该书揭示了微软成功的秘密，并预言了<a href=\"/detail/591946d455b542155400446a\" data-id=\"591946d455b542155400446a\" target=\"_blank\">计算机</a><a href=\"/detail/592419af55b54278ac0055fe\" data-id=\"592419af55b54278ac0055fe\" target=\"_blank\">行业</a>的未来。",
+        "relationType": "ACHIEVEMENT",
+        "relationTypeGroup": "HUMAN_NONHUMAN",
+        "relationWeight": 9,
+        "relationId": "5cd119a92a99a600012f30af",
+        "time": {
+          "startTime": "0000-00-00 00:00:00",
+          "timeDesc": "",
+          "endTime": "",
+          "startAccuracy": null,
+          "startNote": "",
+          "endAccuracy": null,
+          "endNote": ""
+        },
+        "position": [],
+        "positionDesc": "",
+        "properties": null
+      },
+      "formated": {
+        "fromName": "比尔·盖茨",
+        "toName": "未来之路",
+        "from": "591ad63655b5427dfa01edd8",
+        "to": "59248ad155b54278ac04c497",
+        "positionDesc": "",
+        "desc": "《<a href=\"/detail/59248ad155b54278ac04c497\" data-id=\"59248ad155b54278ac04c497\" target=\"_blank\">未来之路</a>》是<a href=\"/detail/5cd297322ca4cb0001f74e02\" data-id=\"5cd297322ca4cb0001f74e02\" target=\"_blank\">微软</a>的联合创始人&amp;CEO<a href=\"/detail/591ad63655b5427dfa01edd8\" data-id=\"591ad63655b5427dfa01edd8\" target=\"_blank\">比尔·盖茨</a>、微软执行总监以及<a href=\"/detail/5924147555b54278ac001a6c\" data-id=\"5924147555b54278ac001a6c\" target=\"_blank\">记者</a>于1995年共同完成的。该书揭示了微软成功的秘密，并预言了<a href=\"/detail/591946d455b542155400446a\" data-id=\"591946d455b542155400446a\" target=\"_blank\">计算机</a><a href=\"/detail/592419af55b54278ac0055fe\" data-id=\"592419af55b54278ac0055fe\" target=\"_blank\">行业</a>的未来。",
+        "time": ""
+      },
+      "relationArrow": "right",
+      "hidden": false,
+      "forceHidden": false
+    },
+    {
+      "id": "5cd119d23ae20d000176e95c",
+      "from": "591ad63655b5427dfa01edd8",
+      "to": "59241c7c55b54278ac00790f",
+      "label": "创建",
+      "color": "#F5FBFF",
+      "labelColor": "#000000",
+      "labelBgColor": "#F5FBFF",
+      "labelBorder": {
+        "width": 1,
+        "color": "#FFFFFF"
+      },
+      "lineLength": 150,
+      "editable": true,
+      "direction": "->",
+      "arrowOffsetFromCenter": 14,
+      "arrowWidth": 8,
+      "prop": {
+        "direction": "->",
+        "id": "5cd119d23ae20d000176e95c",
+        "relation": "创建",
+        "relationDesc": "<a href=\"/detail/59241c7c55b54278ac00790f\" data-id=\"59241c7c55b54278ac00790f\" target=\"_blank\">比尔及梅琳达·盖茨基金会</a>（Bill &amp; Melinda Gates Foundation）是由<a href=\"/detail/591ad63655b5427dfa01edd8\" data-id=\"591ad63655b5427dfa01edd8\" target=\"_blank\">比尔·盖茨</a>与<a href=\"/detail/591ad64455b5427dfa01eeac\" data-id=\"591ad64455b5427dfa01eeac\" target=\"_blank\">梅琳达·盖茨</a>夫妇资助的，全球最大的<a href=\"/detail/592427fa55b54278ac010cfb\" data-id=\"592427fa55b54278ac010cfb\" target=\"_blank\">慈善</a>基金会。成立于在2000年，总部位于在<a href=\"/detail/5910555155b542257a01e589\" data-id=\"5910555155b542257a01e589\" target=\"_blank\">西雅图</a>。",
+        "relationType": "ACHIEVEMENT",
+        "relationTypeGroup": "HUMAN_NONHUMAN",
+        "relationWeight": 63,
+        "relationId": "5cd119d23ae20d000176e95c",
+        "time": {
+          "startTime": "0000-00-00 00:00:00",
+          "timeDesc": "",
+          "endTime": "",
+          "startAccuracy": null,
+          "startNote": "",
+          "endAccuracy": null,
+          "endNote": ""
+        },
+        "position": [],
+        "positionDesc": "",
+        "properties": null
+      },
+      "formated": {
+        "fromName": "比尔·盖茨",
+        "toName": "比尔及梅琳达·盖茨基金会",
+        "from": "591ad63655b5427dfa01edd8",
+        "to": "59241c7c55b54278ac00790f",
+        "positionDesc": "",
+        "desc": "<a href=\"/detail/59241c7c55b54278ac00790f\" data-id=\"59241c7c55b54278ac00790f\" target=\"_blank\">比尔及梅琳达·盖茨基金会</a>（Bill &amp; Melinda Gates Foundation）是由<a href=\"/detail/591ad63655b5427dfa01edd8\" data-id=\"591ad63655b5427dfa01edd8\" target=\"_blank\">比尔·盖茨</a>与<a href=\"/detail/591ad64455b5427dfa01eeac\" data-id=\"591ad64455b5427dfa01eeac\" target=\"_blank\">梅琳达·盖茨</a>夫妇资助的，全球最大的<a href=\"/detail/592427fa55b54278ac010cfb\" data-id=\"592427fa55b54278ac010cfb\" target=\"_blank\">慈善</a>基金会。成立于在2000年，总部位于在<a href=\"/detail/5910555155b542257a01e589\" data-id=\"5910555155b542257a01e589\" target=\"_blank\">西雅图</a>。",
+        "time": ""
+      },
+      "relationArrow": "right",
+      "hidden": false,
+      "forceHidden": false
+    },
+    {
+      "id": "5cd119d52a99a600012f30bc",
+      "from": "591ad63655b5427dfa01edd8",
+      "to": "5910631855b542257a033249",
+      "label": "股东",
+      "color": "#F5FBFF",
+      "labelColor": "#000000",
+      "labelBgColor": "#F5FBFF",
+      "labelBorder": {
+        "width": 1,
+        "color": "#FFFFFF"
+      },
+      "lineLength": 150,
+      "editable": true,
+      "direction": "<-",
+      "arrowOffsetFromCenter": 14,
+      "arrowWidth": 8,
+      "prop": {
+        "direction": "->",
+        "id": "5cd119d52a99a600012f30bc",
+        "relation": "股东",
+        "relationDesc": "<a href=\"/detail/5910631855b542257a033249\" data-id=\"5910631855b542257a033249\" target=\"_blank\">四季酒店</a>（英文：Four Seasons Hotels）是一家世界性的豪华连锁<a href=\"/detail/59241be655b54278ac0071bf\" data-id=\"59241be655b54278ac0071bf\" target=\"_blank\">酒店</a>集团，在世界各地管理酒店及度假区。比尔·盖茨是四季酒店的<a href=\"/detail/5924164455b54278ac002f50\" data-id=\"5924164455b54278ac002f50\" target=\"_blank\">股东</a>之一。",
+        "relationType": "ATTRIBUTION",
+        "relationTypeGroup": "HUMAN_NONHUMAN",
+        "relationWeight": 52,
+        "relationId": "5cd119d52a99a600012f30bc",
+        "time": {
+          "startTime": "0000-00-00 00:00:00",
+          "timeDesc": "",
+          "endTime": "",
+          "startAccuracy": null,
+          "startNote": "",
+          "endAccuracy": null,
+          "endNote": ""
+        },
+        "position": [],
+        "positionDesc": "",
+        "properties": null
+      },
+      "formated": {
+        "fromName": "四季酒店",
+        "toName": "比尔·盖茨",
+        "from": "5910631855b542257a033249",
+        "to": "591ad63655b5427dfa01edd8",
+        "positionDesc": "",
+        "desc": "<a href=\"/detail/5910631855b542257a033249\" data-id=\"5910631855b542257a033249\" target=\"_blank\">四季酒店</a>（英文：Four Seasons Hotels）是一家世界性的豪华连锁<a href=\"/detail/59241be655b54278ac0071bf\" data-id=\"59241be655b54278ac0071bf\" target=\"_blank\">酒店</a>集团，在世界各地管理酒店及度假区。比尔·盖茨是四季酒店的<a href=\"/detail/5924164455b54278ac002f50\" data-id=\"5924164455b54278ac002f50\" target=\"_blank\">股东</a>之一。",
+        "time": ""
+      },
+      "relationArrow": "right",
+      "hidden": false,
+      "forceHidden": false
+    },
+    {
+      "id": "5cd12bc83ae20d000176e9bc",
+      "from": "591ad63655b5427dfa01edd8",
+      "to": "591ab0a255b5427dfa005d31",
+      "label": "以其命名",
+      "color": "#F5FBFF",
+      "labelColor": "#000000",
+      "labelBgColor": "#F5FBFF",
+      "labelBorder": {
+        "width": 1,
+        "color": "#FFFFFF"
+      },
+      "lineLength": 150,
+      "editable": true,
+      "direction": "<-",
+      "arrowOffsetFromCenter": 14,
+      "arrowWidth": 8,
+      "prop": {
+        "direction": "<-",
+        "id": "5cd12bc83ae20d000176e9bc",
+        "relation": "以其命名",
+        "relationDesc": "<a href=\"/detail/591ab0a255b5427dfa005d31\" data-id=\"591ab0a255b5427dfa005d31\" target=\"_blank\">盖茨氏蚜蝇</a>（英文：Bill Gates' Flower Fly；学名：Eristalis gatesi）是一种在<a href=\"/detail/5910544055b542257a01cc26\" data-id=\"5910544055b542257a01cc26\" target=\"_blank\">哥斯达黎加</a>的昆虫，在哥斯达黎加高山的<a href=\"/detail/592417c355b54278ac003f96\" data-id=\"592417c355b54278ac003f96\" target=\"_blank\">森林</a>内发现。由于这是一个新的品种，现时昆虫学家对这新品种还未有足够的认识。哥斯达黎加的昆虫学家为表彰世界首富比尔·盖茨对昆虫学研究的慷慨贡献(捐助)，将其命名为盖茨氏蚜蝇。",
+        "relationType": "ACHIEVEMENT",
+        "relationTypeGroup": "HUMAN_NONHUMAN",
+        "relationWeight": 87,
+        "relationId": "5cd12bc83ae20d000176e9bc",
+        "time": {
+          "startTime": "0000-00-00 00:00:00",
+          "timeDesc": "",
+          "endTime": "",
+          "startAccuracy": null,
+          "startNote": "",
+          "endAccuracy": null,
+          "endNote": ""
+        },
+        "position": [],
+        "positionDesc": "",
+        "properties": null
+      },
+      "formated": {
+        "fromName": "比尔·盖茨",
+        "toName": "盖茨氏蚜蝇",
+        "from": "591ad63655b5427dfa01edd8",
+        "to": "591ab0a255b5427dfa005d31",
+        "positionDesc": "",
+        "desc": "<a href=\"/detail/591ab0a255b5427dfa005d31\" data-id=\"591ab0a255b5427dfa005d31\" target=\"_blank\">盖茨氏蚜蝇</a>（英文：Bill Gates' Flower Fly；学名：Eristalis gatesi）是一种在<a href=\"/detail/5910544055b542257a01cc26\" data-id=\"5910544055b542257a01cc26\" target=\"_blank\">哥斯达黎加</a>的昆虫，在哥斯达黎加高山的<a href=\"/detail/592417c355b54278ac003f96\" data-id=\"592417c355b54278ac003f96\" target=\"_blank\">森林</a>内发现。由于这是一个新的品种，现时昆虫学家对这新品种还未有足够的认识。哥斯达黎加的昆虫学家为表彰世界首富比尔·盖茨对昆虫学研究的慷慨贡献(捐助)，将其命名为盖茨氏蚜蝇。",
+        "time": ""
+      },
+      "relationArrow": "left",
+      "hidden": false,
+      "forceHidden": false
+    },
+    {
+      "id": "5cd12bd13ae20d000176e9bf",
+      "from": "591ad63655b5427dfa01edd8",
+      "to": "59105b0055b542257a026d64",
+      "label": "发表",
+      "color": "#F5FBFF",
+      "labelColor": "#000000",
+      "labelBgColor": "#F5FBFF",
+      "labelBorder": {
+        "width": 1,
+        "color": "#FFFFFF"
+      },
+      "lineLength": 150,
+      "editable": true,
+      "direction": "->",
+      "arrowOffsetFromCenter": 14,
+      "arrowWidth": 8,
+      "prop": {
+        "direction": "->",
+        "id": "5cd12bd13ae20d000176e9bf",
+        "relation": "发表",
+        "relationDesc": "<a href=\"/detail/59105b0055b542257a026d64\" data-id=\"59105b0055b542257a026d64\" target=\"_blank\">Windows Home Server</a>是<a href=\"/detail/5cd297322ca4cb0001f74e02\" data-id=\"5cd297322ca4cb0001f74e02\" target=\"_blank\">微软</a>公司推出的一套<a href=\"/detail/592428b055b54278ac011697\" data-id=\"592428b055b54278ac011697\" target=\"_blank\">家用服务器</a><a href=\"/detail/5924127555b54278ac00001e\" data-id=\"5924127555b54278ac00001e\" target=\"_blank\">操作系统</a>。时任微软公司<a href=\"/detail/59242fd455b54278ac0167e1\" data-id=\"59242fd455b54278ac0167e1\" target=\"_blank\">董事长</a>的<a href=\"/detail/591ad63655b5427dfa01edd8\" data-id=\"591ad63655b5427dfa01edd8\" target=\"_blank\">比尔·盖茨</a>于2007年1月7日在<a href=\"/detail/5910614f55b542257a03060b\" data-id=\"5910614f55b542257a03060b\" target=\"_blank\">Consumer Electronics Show</a>中发表这个系统，这个系统为家中多部电脑如何进行文件分享、自动<a href=\"/detail/59241bee55b54278ac007220\" data-id=\"59241bee55b54278ac007220\" target=\"_blank\">备份</a>、远程访问等问题提供了解决方案。",
+        "relationType": "ACHIEVEMENT",
+        "relationTypeGroup": "HUMAN_NONHUMAN",
+        "relationWeight": 79,
+        "relationId": "5cd12bd13ae20d000176e9bf",
+        "time": {
+          "startTime": "0000-00-00 00:00:00",
+          "timeDesc": "",
+          "endTime": "",
+          "startAccuracy": null,
+          "startNote": "",
+          "endAccuracy": null,
+          "endNote": ""
+        },
+        "position": [],
+        "positionDesc": "",
+        "properties": null
+      },
+      "formated": {
+        "fromName": "比尔·盖茨",
+        "toName": "Windows Home Server",
+        "from": "591ad63655b5427dfa01edd8",
+        "to": "59105b0055b542257a026d64",
+        "positionDesc": "",
+        "desc": "<a href=\"/detail/59105b0055b542257a026d64\" data-id=\"59105b0055b542257a026d64\" target=\"_blank\">Windows Home Server</a>是<a href=\"/detail/5cd297322ca4cb0001f74e02\" data-id=\"5cd297322ca4cb0001f74e02\" target=\"_blank\">微软</a>公司推出的一套<a href=\"/detail/592428b055b54278ac011697\" data-id=\"592428b055b54278ac011697\" target=\"_blank\">家用服务器</a><a href=\"/detail/5924127555b54278ac00001e\" data-id=\"5924127555b54278ac00001e\" target=\"_blank\">操作系统</a>。时任微软公司<a href=\"/detail/59242fd455b54278ac0167e1\" data-id=\"59242fd455b54278ac0167e1\" target=\"_blank\">董事长</a>的<a href=\"/detail/591ad63655b5427dfa01edd8\" data-id=\"591ad63655b5427dfa01edd8\" target=\"_blank\">比尔·盖茨</a>于2007年1月7日在<a href=\"/detail/5910614f55b542257a03060b\" data-id=\"5910614f55b542257a03060b\" target=\"_blank\">Consumer Electronics Show</a>中发表这个系统，这个系统为家中多部电脑如何进行文件分享、自动<a href=\"/detail/59241bee55b54278ac007220\" data-id=\"59241bee55b54278ac007220\" target=\"_blank\">备份</a>、远程访问等问题提供了解决方案。",
+        "time": ""
+      },
+      "relationArrow": "right",
+      "hidden": false,
+      "forceHidden": false
+    },
+    {
+      "id": "5cd12bd42a99a600012f311a",
+      "from": "591ad63655b5427dfa01edd8",
+      "to": "5919425d55b542155400309d",
+      "label": "设计",
+      "color": "#F5FBFF",
+      "labelColor": "#000000",
+      "labelBgColor": "#F5FBFF",
+      "labelBorder": {
+        "width": 1,
+        "color": "#FFFFFF"
+      },
+      "lineLength": 150,
+      "editable": true,
+      "direction": "->",
+      "arrowOffsetFromCenter": 14,
+      "arrowWidth": 8,
+      "prop": {
+        "direction": "->",
+        "id": "5cd12bd42a99a600012f311a",
+        "relation": "设计",
+        "relationDesc": "<a href=\"/detail/5919425d55b542155400309d\" data-id=\"5919425d55b542155400309d\" target=\"_blank\">Altair 8800</a>是1974年基于<a href=\"/detail/59241f2155b54278ac009cb1\" data-id=\"59241f2155b54278ac009cb1\" target=\"_blank\">Intel 8080</a>所设计的一部微型电脑，当时还在<a href=\"/detail/582a828105c3fbd21c030571\" data-id=\"582a828105c3fbd21c030571\" target=\"_blank\">哈佛大学</a>读书的<a href=\"/detail/591ad63655b5427dfa01edd8\" data-id=\"591ad63655b5427dfa01edd8\" target=\"_blank\">比尔·盖茨</a>与伙伴<a href=\"/detail/591065bf55b542257a0371c3\" data-id=\"591065bf55b542257a0371c3\" target=\"_blank\">保罗·艾伦</a>一起为Altair 8800电脑设计Altair&nbsp;<a href=\"/detail/591053fa55b542257a01c627\" data-id=\"591053fa55b542257a01c627\" target=\"_blank\">BASIC</a>编辑器。",
+        "relationType": "ACHIEVEMENT",
+        "relationTypeGroup": "HUMAN_NONHUMAN",
+        "relationWeight": 51,
+        "relationId": "5cd12bd42a99a600012f311a",
+        "time": {
+          "startTime": "0000-00-00 00:00:00",
+          "timeDesc": "",
+          "endTime": "",
+          "startAccuracy": null,
+          "startNote": "",
+          "endAccuracy": null,
+          "endNote": ""
+        },
+        "position": [],
+        "positionDesc": "",
+        "properties": null
+      },
+      "formated": {
+        "fromName": "比尔·盖茨",
+        "toName": "Altair 8800",
+        "from": "591ad63655b5427dfa01edd8",
+        "to": "5919425d55b542155400309d",
+        "positionDesc": "",
+        "desc": "<a href=\"/detail/5919425d55b542155400309d\" data-id=\"5919425d55b542155400309d\" target=\"_blank\">Altair 8800</a>是1974年基于<a href=\"/detail/59241f2155b54278ac009cb1\" data-id=\"59241f2155b54278ac009cb1\" target=\"_blank\">Intel 8080</a>所设计的一部微型电脑，当时还在<a href=\"/detail/582a828105c3fbd21c030571\" data-id=\"582a828105c3fbd21c030571\" target=\"_blank\">哈佛大学</a>读书的<a href=\"/detail/591ad63655b5427dfa01edd8\" data-id=\"591ad63655b5427dfa01edd8\" target=\"_blank\">比尔·盖茨</a>与伙伴<a href=\"/detail/591065bf55b542257a0371c3\" data-id=\"591065bf55b542257a0371c3\" target=\"_blank\">保罗·艾伦</a>一起为Altair 8800电脑设计Altair&nbsp;<a href=\"/detail/591053fa55b542257a01c627\" data-id=\"591053fa55b542257a01c627\" target=\"_blank\">BASIC</a>编辑器。",
+        "time": ""
+      },
+      "relationArrow": "right",
+      "hidden": false,
+      "forceHidden": false
+    },
+    {
+      "id": "5cd158492a99a600012f32b5",
+      "from": "591ad63655b5427dfa01edd8",
+      "to": "5846300cbf6928ed01311bc8",
+      "label": "获得",
+      "color": "#F5FBFF",
+      "labelColor": "#000000",
+      "labelBgColor": "#F5FBFF",
+      "labelBorder": {
+        "width": 1,
+        "color": "#FFFFFF"
+      },
+      "lineLength": 150,
+      "editable": true,
+      "direction": "->",
+      "arrowOffsetFromCenter": 14,
+      "arrowWidth": 8,
+      "prop": {
+        "direction": "->",
+        "id": "5cd158492a99a600012f32b5",
+        "relation": "获得",
+        "relationDesc": "2016年，<a href=\"/detail/57e1fc970bd1be9240524e5e\" data-id=\"57e1fc970bd1be9240524e5e\" target=\"_blank\">美国</a><a href=\"/detail/5924143055b54278ac001719\" data-id=\"5924143055b54278ac001719\" target=\"_blank\">总统</a><a href=\"/detail/5919459a55b5421554003e7c\" data-id=\"5919459a55b5421554003e7c\" target=\"_blank\">奥巴马</a>在卸任之际宣布了该年获得<a href=\"/detail/5846300cbf6928ed01311bc8\" data-id=\"5846300cbf6928ed01311bc8\" target=\"_blank\">总统自由勋章</a>的21人名单，其中包括微软创始人<a href=\"/detail/591ad63655b5427dfa01edd8\" data-id=\"591ad63655b5427dfa01edd8\" target=\"_blank\">比尔·盖茨</a>。奥巴马在声明中写到：“这是对我们所有人付出的肯定，不管我们来自哪里，我们都有机会改变这个<a href=\"/detail/592412b955b54278ac0002f0\" data-id=\"592412b955b54278ac0002f0\" target=\"_blank\">国家</a>的现状，让我们的国家变得更好。这21个人中有<a href=\"/detail/5924138b55b54278ac000fc9\" data-id=\"5924138b55b54278ac000fc9\" target=\"_blank\">科学家</a>、<a href=\"/detail/592425f355b54278ac00f3b5\" data-id=\"592425f355b54278ac00f3b5\" target=\"_blank\">慈善家</a>、<a href=\"/detail/5924155e55b54278ac00250d\" data-id=\"5924155e55b54278ac00250d\" target=\"_blank\">艺术家</a>、<a href=\"/detail/57d90ac10bd1be3a658b4568\" data-id=\"57d90ac10bd1be3a658b4568\" target=\"_blank\">运动员</a>，当然也有那些<a href=\"/detail/591adc1e55b5427dfa0209c0\" data-id=\"591adc1e55b5427dfa0209c0\" target=\"_blank\">普通</a>社会活动的参与者，是他们推动了美国的前进，是他们激励这数以百万的人前赴后继地为国家奉献自己。”",
+        "relationType": "ACHIEVEMENT",
+        "relationTypeGroup": "HUMAN_NONHUMAN",
+        "relationWeight": 70,
+        "relationId": "5cd158492a99a600012f32b5",
+        "time": {
+          "startTime": "0000-00-00 00:00:00",
+          "timeDesc": "",
+          "endTime": "",
+          "startAccuracy": null,
+          "startNote": "",
+          "endAccuracy": null,
+          "endNote": ""
+        },
+        "position": [],
+        "positionDesc": "",
+        "properties": null
+      },
+      "formated": {
+        "fromName": "比尔·盖茨",
+        "toName": "总统自由勋章",
+        "from": "591ad63655b5427dfa01edd8",
+        "to": "5846300cbf6928ed01311bc8",
+        "positionDesc": "",
+        "desc": "2016年，<a href=\"/detail/57e1fc970bd1be9240524e5e\" data-id=\"57e1fc970bd1be9240524e5e\" target=\"_blank\">美国</a><a href=\"/detail/5924143055b54278ac001719\" data-id=\"5924143055b54278ac001719\" target=\"_blank\">总统</a><a href=\"/detail/5919459a55b5421554003e7c\" data-id=\"5919459a55b5421554003e7c\" target=\"_blank\">奥巴马</a>在卸任之际宣布了该年获得<a href=\"/detail/5846300cbf6928ed01311bc8\" data-id=\"5846300cbf6928ed01311bc8\" target=\"_blank\">总统自由勋章</a>的21人名单，其中包括微软创始人<a href=\"/detail/591ad63655b5427dfa01edd8\" data-id=\"591ad63655b5427dfa01edd8\" target=\"_blank\">比尔·盖茨</a>。奥巴马在声明中写到：“这是对我们所有人付出的肯定，不管我们来自哪里，我们都有机会改变这个<a href=\"/detail/592412b955b54278ac0002f0\" data-id=\"592412b955b54278ac0002f0\" target=\"_blank\">国家</a>的现状，让我们的国家变得更好。这21个人中有<a href=\"/detail/5924138b55b54278ac000fc9\" data-id=\"5924138b55b54278ac000fc9\" target=\"_blank\">科学家</a>、<a href=\"/detail/592425f355b54278ac00f3b5\" data-id=\"592425f355b54278ac00f3b5\" target=\"_blank\">慈善家</a>、<a href=\"/detail/5924155e55b54278ac00250d\" data-id=\"5924155e55b54278ac00250d\" target=\"_blank\">艺术家</a>、<a href=\"/detail/57d90ac10bd1be3a658b4568\" data-id=\"57d90ac10bd1be3a658b4568\" target=\"_blank\">运动员</a>，当然也有那些<a href=\"/detail/591adc1e55b5427dfa0209c0\" data-id=\"591adc1e55b5427dfa0209c0\" target=\"_blank\">普通</a>社会活动的参与者，是他们推动了美国的前进，是他们激励这数以百万的人前赴后继地为国家奉献自己。”",
+        "time": ""
+      },
+      "relationArrow": "right",
+      "hidden": false,
+      "forceHidden": false
+    },
+    {
+      "id": "5cd22ee02a99a600012f33af",
+      "from": "591ad63655b5427dfa01edd8",
+      "to": "5924a8e055b54278ac060903",
+      "label": "入选",
+      "color": "#F5FBFF",
+      "labelColor": "#000000",
+      "labelBgColor": "#F5FBFF",
+      "labelBorder": {
+        "width": 1,
+        "color": "#FFFFFF"
+      },
+      "lineLength": 150,
+      "editable": true,
+      "direction": "->",
+      "arrowOffsetFromCenter": 14,
+      "arrowWidth": 8,
+      "prop": {
+        "direction": "->",
+        "id": "5cd22ee02a99a600012f33af",
+        "relation": "入选",
+        "relationDesc": "1995年，<a href=\"/detail/591ad63655b5427dfa01edd8\" data-id=\"591ad63655b5427dfa01edd8\" target=\"_blank\">比尔·盖茨</a>以129亿美元的身价首次登顶<a href=\"/detail/5924a8e055b54278ac060903\" data-id=\"5924a8e055b54278ac060903\" target=\"_blank\">全球富豪榜</a>。从退学建立<a href=\"/detail/5cd297322ca4cb0001f74e02\" data-id=\"5cd297322ca4cb0001f74e02\" target=\"_blank\">微软</a>，到成为世界首富，<a href=\"/detail/591ad63655b5427dfa01edd8\" data-id=\"591ad63655b5427dfa01edd8\" target=\"_blank\">比尔·盖茨</a>只用了20年的时间。此后，这个被美国人誉为“坐在世界巅峰的人”便在世界首富的位置上连续坐了13年。尽管2008年，<a href=\"/detail/58f8850e55b54258e700255f\" data-id=\"58f8850e55b54258e700255f\" target=\"_blank\">沃伦·巴菲特</a>（Warren Buffett）以620亿美元的身价超越比尔·盖茨成为新的世界首富。但截至2018年，比尔·盖茨在全球富豪榜上的排名也没有掉出过前3。",
+        "relationType": "ACHIEVEMENT",
+        "relationTypeGroup": "HUMAN_NONHUMAN",
+        "relationWeight": 15,
+        "relationId": "5cd22ee02a99a600012f33af",
+        "time": {
+          "startTime": "0000-00-00 00:00:00",
+          "timeDesc": "",
+          "endTime": "",
+          "startAccuracy": null,
+          "startNote": "",
+          "endAccuracy": null,
+          "endNote": ""
+        },
+        "position": [],
+        "positionDesc": "",
+        "properties": null
+      },
+      "formated": {
+        "fromName": "比尔·盖茨",
+        "toName": "全球富豪榜",
+        "from": "591ad63655b5427dfa01edd8",
+        "to": "5924a8e055b54278ac060903",
+        "positionDesc": "",
+        "desc": "1995年，<a href=\"/detail/591ad63655b5427dfa01edd8\" data-id=\"591ad63655b5427dfa01edd8\" target=\"_blank\">比尔·盖茨</a>以129亿美元的身价首次登顶<a href=\"/detail/5924a8e055b54278ac060903\" data-id=\"5924a8e055b54278ac060903\" target=\"_blank\">全球富豪榜</a>。从退学建立<a href=\"/detail/5cd297322ca4cb0001f74e02\" data-id=\"5cd297322ca4cb0001f74e02\" target=\"_blank\">微软</a>，到成为世界首富，<a href=\"/detail/591ad63655b5427dfa01edd8\" data-id=\"591ad63655b5427dfa01edd8\" target=\"_blank\">比尔·盖茨</a>只用了20年的时间。此后，这个被美国人誉为“坐在世界巅峰的人”便在世界首富的位置上连续坐了13年。尽管2008年，<a href=\"/detail/58f8850e55b54258e700255f\" data-id=\"58f8850e55b54258e700255f\" target=\"_blank\">沃伦·巴菲特</a>（Warren Buffett）以620亿美元的身价超越比尔·盖茨成为新的世界首富。但截至2018年，比尔·盖茨在全球富豪榜上的排名也没有掉出过前3。",
+        "time": ""
+      },
+      "relationArrow": "right",
+      "hidden": false,
+      "forceHidden": false
+    },
+    {
+      "id": "5cd37d612ca4cb000107ab8d",
+      "from": "591ad63655b5427dfa01edd8",
+      "to": "5cd297322ca4cb0001f74e02",
+      "label": "创建",
+      "color": "#F5FBFF",
+      "labelColor": "#000000",
+      "labelBgColor": "#F5FBFF",
+      "labelBorder": {
+        "width": 1,
+        "color": "#FFFFFF"
+      },
+      "lineLength": 150,
+      "editable": true,
+      "direction": "->",
+      "arrowOffsetFromCenter": 14,
+      "arrowWidth": 8,
+      "prop": {
+        "direction": "->",
+        "id": "5cd37d612ca4cb000107ab8d",
+        "relation": "创建",
+        "relationDesc": "1976年11月26日，<a href=\"/detail/591ad63655b5427dfa01edd8\" data-id=\"591ad63655b5427dfa01edd8\" target=\"_blank\">比尔·盖茨</a>和<a href=\"/detail/591065bf55b542257a0371c3\" data-id=\"591065bf55b542257a0371c3\" target=\"_blank\">保罗·艾伦</a>（Paul Allen）注册了“<a href=\"/detail/5cd297322ca4cb0001f74e02\" data-id=\"5cd297322ca4cb0001f74e02\" target=\"_blank\">微软</a>”（Microsoft）<a href=\"/detail/5924129355b54278ac000134\" data-id=\"5924129355b54278ac000134\" target=\"_blank\">商标</a>。因为看好<a href=\"/detail/591946d455b542155400446a\" data-id=\"591946d455b542155400446a\" target=\"_blank\">计算机</a>的发展前景，1977年1月，比尔·盖茨正式从<a href=\"/detail/582a828105c3fbd21c030571\" data-id=\"582a828105c3fbd21c030571\" target=\"_blank\">哈佛大学</a>辍学，前往<a href=\"/detail/57e1fc970bd1be9240524e5e\" data-id=\"57e1fc970bd1be9240524e5e\" target=\"_blank\">美国</a><a href=\"/detail/591069a655b542257a03ce94\" data-id=\"591069a655b542257a03ce94\" target=\"_blank\">新墨西哥州</a><a href=\"/detail/5910642c55b542257a034b5f\" data-id=\"5910642c55b542257a034b5f\" target=\"_blank\">阿尔伯克基</a>（Albuquerque）市与好友保罗·艾伦一起创立微软公司。",
+        "relationType": "ACHIEVEMENT",
+        "relationTypeGroup": "HUMAN_NONHUMAN",
+        "relationWeight": 82,
+        "relationId": "5cd37d612ca4cb000107ab8d",
+        "time": {
+          "startTime": "0000-00-00 00:00:00",
+          "timeDesc": "",
+          "endTime": "",
+          "startAccuracy": null,
+          "startNote": "",
+          "endAccuracy": null,
+          "endNote": ""
+        },
+        "position": [],
+        "positionDesc": "",
+        "properties": null
+      },
+      "formated": {
+        "fromName": "比尔·盖茨",
+        "toName": "微软",
+        "from": "591ad63655b5427dfa01edd8",
+        "to": "5cd297322ca4cb0001f74e02",
+        "positionDesc": "",
+        "desc": "1976年11月26日，<a href=\"/detail/591ad63655b5427dfa01edd8\" data-id=\"591ad63655b5427dfa01edd8\" target=\"_blank\">比尔·盖茨</a>和<a href=\"/detail/591065bf55b542257a0371c3\" data-id=\"591065bf55b542257a0371c3\" target=\"_blank\">保罗·艾伦</a>（Paul Allen）注册了“<a href=\"/detail/5cd297322ca4cb0001f74e02\" data-id=\"5cd297322ca4cb0001f74e02\" target=\"_blank\">微软</a>”（Microsoft）<a href=\"/detail/5924129355b54278ac000134\" data-id=\"5924129355b54278ac000134\" target=\"_blank\">商标</a>。因为看好<a href=\"/detail/591946d455b542155400446a\" data-id=\"591946d455b542155400446a\" target=\"_blank\">计算机</a>的发展前景，1977年1月，比尔·盖茨正式从<a href=\"/detail/582a828105c3fbd21c030571\" data-id=\"582a828105c3fbd21c030571\" target=\"_blank\">哈佛大学</a>辍学，前往<a href=\"/detail/57e1fc970bd1be9240524e5e\" data-id=\"57e1fc970bd1be9240524e5e\" target=\"_blank\">美国</a><a href=\"/detail/591069a655b542257a03ce94\" data-id=\"591069a655b542257a03ce94\" target=\"_blank\">新墨西哥州</a><a href=\"/detail/5910642c55b542257a034b5f\" data-id=\"5910642c55b542257a034b5f\" target=\"_blank\">阿尔伯克基</a>（Albuquerque）市与好友保罗·艾伦一起创立微软公司。",
+        "time": ""
+      },
+      "relationArrow": "right",
+      "hidden": false,
+      "forceHidden": false
+    }
+  ]
+}
