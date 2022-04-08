@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.redline.ecoredlinekgback.mapper.neo4j.DetailNeo4jMapper">
+    <select id="getGraphNodesByNodeId" resultType="com.redline.ecoredlinekgback.pojo.Node">
+        match(n)
+        where id(n)=#{nId}
+        return id(n) as id,n.name as name,n.description as description,n.img_url as imgUrl
+    </select>
+    <select id="getGraphTargetNodesBySourceNodeId" resultType="com.redline.ecoredlinekgback.pojo.Node">
+        match(n)--(m)
+        where id(n)=#{nId}
+        return id(m) as id,m.name as name,m.description as description,m.img_url as imgUrl
+    </select>
+    <select id="getGraphLinksBySourceNodeId" resultType="com.redline.ecoredlinekgback.pojo.Link">
+        match(n)-[r]-(m)
+        where id(n)=#{nId}
+        return id(startNode(r)) as from,id(endNode(r)) as to,id(r) as id,r.name as name,r.description as description
+    </select>
+</mapper>

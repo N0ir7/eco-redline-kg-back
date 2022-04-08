@@ -2,6 +2,7 @@ package com.redline.ecoredlinekgback.advice;
 
 import com.redline.ecoredlinekgback.utils.JsonUtil;
 import com.redline.ecoredlinekgback.vo.Result;
+import io.swagger.annotations.ApiOperation;
 import org.springframework.core.MethodParameter;
 import org.springframework.http.MediaType;
 import org.springframework.http.converter.HttpMessageConverter;
@@ -9,8 +10,7 @@ import org.springframework.http.server.ServerHttpRequest;
 import org.springframework.http.server.ServerHttpResponse;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 import org.springframework.web.servlet.mvc.method.annotation.ResponseBodyAdvice;
-
-@RestControllerAdvice(basePackages = "com.redline.ecoredlinekgback.controller")
+@RestControllerAdvice(basePackages = "com.redline.ecoredlinekgback")
 public class ResultResponseAdvice implements ResponseBodyAdvice<Object> {
     // 判断是否要执行beforeBodyWrite方法，true为执行，false不执行
     @Override

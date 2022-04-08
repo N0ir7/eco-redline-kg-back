@@ -7,12 +7,12 @@ import java.io.Serializable;
 @Data
 public class Result<T> implements Serializable {
     private Integer code;
-    private String desc;
+    private String msg;
     private T data;
 
     public void setResultCode(ResultCode rc){
         this.code = rc.getCode();
-        this.desc = rc.getMsg();
+        this.msg = rc.getMsg();
     }
     public static Result success(Object data) {
         Result result = new Result();

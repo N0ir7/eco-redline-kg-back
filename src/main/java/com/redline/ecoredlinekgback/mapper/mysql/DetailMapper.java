@@ -1,4 +1,4 @@
-package com.redline.ecoredlinekgback.mapper;
+package com.redline.ecoredlinekgback.mapper.mysql;
 
 import org.apache.ibatis.annotations.Mapper;
 

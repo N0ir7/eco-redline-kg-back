@@ -4,8 +4,8 @@ import lombok.Data;
 
 @Data
 public class Instance {
-    int id;
-    String title;
+    String id;
+    String name;
     String description;
     String imgUrl;
 }

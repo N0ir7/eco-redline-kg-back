@@ -2,9 +2,12 @@ package com.redline.ecoredlinekgback.utils;
 
 import java.io.IOException;
 import java.text.SimpleDateFormat;
+import java.util.Arrays;
+import java.util.List;
 import java.util.TimeZone;
 
 import com.fasterxml.jackson.annotation.JsonInclude.Include;
+import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.JsonNode;
@@ -96,14 +99,21 @@ public class JsonUtil {
      * @return T
      */
     @SuppressWarnings("unchecked")
-    public static <T> T decode(String json, Class<?> valueType) {
+    public static <T> T decode(String json, Class<T> valueType) {
         try {
-            return (T) objectMapper.readValue(json, valueType);
+            return objectMapper.readValue(json, valueType);
         } catch (Exception e) {
             throw new RuntimeException(json, e);
         }
     }
-
+    public static<T> List<T> json2List(String json,Class<T[]> valueType){
+        try {
+            return Arrays.asList(objectMapper.readValue(json,valueType));
+        } catch (JsonProcessingException e) {
+            e.printStackTrace();
+            throw new RuntimeException(json, e);
+        }
+    }
 }
 
 
